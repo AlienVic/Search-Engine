@@ -1,0 +1,1642 @@
+https://www.state.gov/
+date:Fri May 05 16:47:25 EDT 2017
+IP:23.66.202.12
+length:33225
+
+<!DOCTYPE html><html xmlns:esi="http://www.edge-delivery.org/esi/1.0" class="no-js">
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<link href="/state-responsive/images/favicons/apple-touch-icon-57x57.png" sizes="57x57" rel="apple-touch-icon">
+<link href="/state-responsive/images/favicons/apple-touch-icon-60x60.png" sizes="60x60" rel="apple-touch-icon">
+<link href="/state-responsive/images/favicons/apple-touch-icon-72x72.png" sizes="72x72" rel="apple-touch-icon">
+<link href="/state-responsive/images/favicons/apple-touch-icon-76x76.png" sizes="76x76" rel="apple-touch-icon">
+<link href="/state-responsive/images/favicons/apple-touch-icon-114x114.png" sizes="114x114" rel="apple-touch-icon">
+<link href="/state-responsive/images/favicons/apple-touch-icon-120x120.png" sizes="120x120" rel="apple-touch-icon">
+<link href="/state-responsive/images/favicons/apple-touch-icon-144x144.png" sizes="144x144" rel="apple-touch-icon">
+<link href="/state-responsive/images/favicons/apple-touch-icon-152x152.png" sizes="152x152" rel="apple-touch-icon">
+<link href="/state-responsive/images/favicons/apple-touch-icon-180x180.png" sizes="180x180" rel="apple-touch-icon">
+<link sizes="32x32" href="/state-responsive/images/favicons/favicon-32x32.png" type="image/png" rel="icon">
+<link sizes="192x192" href="/state-responsive/images/favicons/android-chrome-192x192.png" type="image/png" rel="icon">
+<link sizes="96x96" href="/state-responsive/images/favicons/favicon-96x96.png" type="image/png" rel="icon">
+<link sizes="16x16" href="/state-responsive/images/favicons/favicon-16x16.png" type="image/png" rel="icon">
+<link href="/state-responsive/images/favicons/manifest.json" rel="manifest">
+<meta content="#da532c" name="msapplication-TileColor">
+<meta content="/state-responsive/images/favicons/mstile-144x144.png" name="msapplication-TileImage">
+<meta content="#ffffff" name="theme-color">
+<script src="/state-responsive/bower_components/foundation/js/vendor/jquery.js"></script><script src="/state-responsive/bower_components/foundation/js/foundation.min.js"></script><script src="/state-responsive/js/vendor/slick.min.js"></script><script src="/state-responsive/js/vendor/responsive-nav.min.js"></script><script src="/state-responsive/js/scripts.js"></script><script type="text/javascript" src="/foresee/foresee-trigger.js"></script><script id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOS" type="text/javascript" async="async"></script><script>
+    $( document ).ready(function() {
+        $(".l-quick-links").load("/quicklinks_home.htm");
+        $(".l-dipnote #panel2").load("/dipnote.htm");
+    });
+    </script>
+<title>U.S. Department of State | Home Page</title>
+<link href="/state-responsive/css/homepage.css" rel="stylesheet">
+<link href="/state-responsive/css/bc_responsive.css" rel="stylesheet">
+<link href="/state-responsive/css/webfonts.css" rel="stylesheet">
+<script src="/state-responsive/bower_components/modernizr/modernizr.js"></script>
+</head>
+<body>
+<a id="top"></a><a tabindex="1" class="element-invisible element-focusable skip show-on-focus" href="#main-content">Skip to Main Content</a>
+<div class="container">
+<!--googleoff: all-->
+<header class="l-header" role="banner">
+<div class="row">
+<div class="small-12 columns">
+<div class="l-logo left">
+<a tabindex="2" class="i-dos-seal" href="/"><span class="hide">DOS Seal</span></a>
+<div class="left">
+<h1 class="i-dos-text" aria-level="1" role="heading">U.S. Department of State</h1>
+<h2 aria-level="2" role="heading">Diplomacy in Action</h2>
+</div>
+</div>
+<nav class="l-social" role="navigation">
+<ul class="inline-list">
+<li>
+<a tabindex="3" title="Video" href="http://video.state.gov/"><span class="fa icon-video-camera fa-lg"><span class="hide">Video</span></span></a>
+</li>
+<li>
+<a tabindex="4" title="Twitter" href="https://twitter.com/StateDept"><span class="fa icon-twitter fa-lg"><span class="hide">Twitter</span></span></a>
+</li>
+<li>
+<a tabindex="5" title="Facebook" href="https://www.facebook.com/usdos"><span class="fa icon-facebook fa-lg"><span class="hide">Facebook</span></span></a>
+</li>
+<li>
+<a tabindex="6" aria-expanded="false" aria-controls="d-more-drop" data-options="is_hover:false;" data-dropdown="d-more-drop" class="d-more" href="#">More</a>
+<ul tabindex="-1" aria-hidden="true" data-dropdown-content="drop" class="f-dropdown tiny" id="d-more-drop">
+<li>
+<a href="http://www.flickr.com/photos/statephotos"><span class="fa icon-flickr fa-lg fa-fw"></span>Flickr</a>
+</li>
+<li>
+<a href="http://www.youtube.com/user/statevideo"><span class="fa icon-youtube fa-lg fa-fw"></span>YouTube</a>
+</li>
+<li>
+<a href="http://instagram.com/statedept"><span class="fa icon-instagram fa-lg fa-fw"></span>Instagram</a>
+</li>
+<li>
+<a href="https://plus.google.com/u/0/102630068213960289352#102630068213960289352/posts"><span class="fa icon-google-plus-square fa-lg fa-fw"></span>Google+</a>
+</li>
+<li>
+<a href="http://statedept.tumblr.com/"><span class="fa icon-tumblr fa-lg fa-fw"></span>Tumblr</a>
+</li>
+<li>
+<a href="http://blogs.state.gov/"><span class="fa icon-comments-o fa-lg fa-fw"></span>DipNote Blog</a>
+</li>
+<li>
+<a href="/misc/echannels/66791.htm"><span class="fa icon-rss fa-lg fa-fw"></span>RSS</a>
+</li>
+<li>
+<a href="https://service.govdelivery.com/service/multi_subscribe.html?code=USSTATEBPA"><span class="fa icon-check fa-lg fa-fw"></span>Subscribe</a>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+<a class="customTopbarToggle show-for-small-only" href="#"><span class="hide">Toggle Topbar</span></a>
+</div>
+</div>
+</header>
+<div class="l-topbar">
+<div class="">
+<nav data-options="mobile_show_parent_link:true;back_text:&laquo; Back" data-topbar="topbar" class="top-bar" role="navigation">
+<ul class="title-area show-for-medium-up">
+<li class="name"></li>
+<li class="toggle-topbar menu-icon" id="customToggle">
+<a href="#"><span><span class="hide">Menu</span></span></a>
+</li>
+</ul>
+<section class="top-bar-section">
+  <ul id="main-menu" class="main-nav left">
+    <li class="expanded has-dropdown not-click"><a href="/secretary">Secretary Tillerson</a>
+      <ul class="dropdown">
+        <li class="leaf"><a href="https://www.state.gov/secretary/remarks/2017/">Remarks</a></li>
+        <li class="leaf"><a href="https://www.state.gov/secretary/travel/index.htm">Travel</a></li>
+        <li class="leaf"><a href="http://www.state.gov/r/pa/ei/biog/267393.htm">Biography</a></li>
+      </ul>
+    </li>
+    <li class="expanded has-dropdown not-click"><a href="/aboutstate">About</a>
+      <ul class="dropdown">
+        <li class="leaf"><a href="http://www.state.gov/s/d/rm/index.htm#mission">Mission Statement</a></li>
+        <li class="leaf"><a href="http://www.state.gov/s/dmr/qddr/index.htm">QDDR</a></li>
+        <li class="leaf"><a href="http://www.state.gov/r/pa/ei/rls/dos/99484.htm">Organization Chart</a></li>
+        <li class="leaf"><a href="http://www.state.gov/s/d/rm/c6112.htm">Budget</a></li>
+        <li class="leaf"><a href="http://www.state.gov/r/pa/map/index.htm">Department of State by State</a></li>
+        <li class="leaf"><a href="http://www.state.gov/m/a/dir/rulemaking/index.htm">Rules and Info Collection</a></li>
+        <li class="leaf"><a href="http://www.state.gov/s/partnerships/partner/index.htm">Partner With State</a></li>
+        <li class="leaf"><a href="http://www.state.gov/misc/19232.htm">Senior Officials</a></li>
+        <li class="leaf"><a href="http://www.state.gov/r/pa/ei/rls/dos/1718.htm">Alphabetical List of Bureaus and Offices</a></li>
+        <li class="leaf"><a href="http://www.state.gov/r/pa/ei/rls/dos/160060.htm">Advisory Groups</a></li>
+        <li class="leaf"><a href="http://www.state.gov/r/pa/ei/biog/index.htm">Biographies</a></li>
+        <li class="leaf"><a href="http://www.state.gov/s/d/rm/c6113.htm">Plans, Performance, Budgets</a></li>
+        <li class="leaf"><a href="http://www.state.gov/s/d/rm/rls/perfrpt/index.htm">Agency Financial Reports</a></li>
+        <li class="leaf"><a href="http://www.state.gov/open/index.htm">Open Government Initiative</a></li>
+        <li class="leaf"><a href="http://www.state.gov/s/ocr/c11528.htm">No FEAR Act</a></li>
+        <li class="leaf"><a href="http://oig.state.gov/hotline/">Inspector General Hotline</a></li>
+        <li class="leaf"><a href="http://www.usembassy.gov/">U.S. Embassies and Other Posts</a></li>
+        <li class="leaf"><a href="http://www.afsa.org/">American Foreign Service Association</a></li>
+      </ul>
+    </li>
+    <li class="expanded has-dropdown not-click"><a href="/whatwedo">What We Do</a>
+      <ul class="dropdown">
+        <li class="leaf"><a href="http://www.state.gov/t/index.htm">Arms Control and International Security</a></li>
+        <li class="leaf"><a href="http://www.state.gov/j/index.htm">Civilian Security, Democracy, and Human Rights</a></li>
+        <li class="leaf"><a href="http://www.state.gov/e/index.htm">Economic Growth, Energy, and the Environment</a></li>
+        <li class="leaf"><a href="http://www.state.gov/m/index.htm">Management</a></li>
+        <li class="leaf"><a href="http://www.state.gov/p/index.htm">Political Affairs</a></li>
+        <li class="leaf"><a href="http://www.state.gov/r/index.htm">Public Diplomacy and Public Affairs</a></li>
+      </ul>
+    </li>
+    <li class="expanded has-dropdown not-click"><a href="/policy">Policy Issues</a>
+      <ul class="dropdown">
+        <li class="leaf"><a href="http://www.state.gov/anticorruption/index.htm">Anti-Corruption</a></li>
+        <li class="leaf"><a href="http://www.state.gov/e/oes/index.htm">Climate & Environment</a></li>
+        <li class="leaf"><a href="http://www.state.gov/j/ct/index.htm">Counterterrorism & Countering Violent Extremism</a></li>
+        <li class="leaf"><a href="http://www.state.gov/s/cyberissues/index.htm">Cyber Issues</a></li>
+        <li class="leaf"><a href="http://www.state.gov/s/seci/index.htm">Defeating ISIS</a></li>
+        <li class="leaf"><a href="http://www.state.gov/j/drl/index.htm">Democracy & Human Rights</a></li>
+        <li class="leaf"><a href="http://www.state.gov/e/eb/index.htm">Economic Affairs & Trade Policy</a></li>
+        <li class="leaf"><a href="http://www.state.gov/e/enr/index.htm">Energy</a></li>
+        <li class="leaf"><a href="http://www.state.gov/s/globalfoodsecurity/index.htm">Food Security</a></li>
+        <li class="leaf"><a href="http://www.state.gov/s/gac/index.htm">Health Diplomacy</a></li>
+        <li class="leaf"><a href="http://www.state.gov/t/isn/index.htm">Nonproliferation</a></li>
+        <li class="leaf"><a href="http://www.state.gov/e/oes/ocns/opa/index.htm">Oceans & Arctic</a></li>
+        <li class="leaf"><a href="http://www.state.gov/j/prm/index.htm">Refugees</a></li>
+        <li class="leaf"><a href="http://www.state.gov/j/tip/index.htm">Trafficking in Persons</a></li>
+        <li class="leaf"><a href="http://www.state.gov/s/gwi/index.htm">Women's Issues</a></li>
+      </ul>
+    </li>
+    <li class="expanded has-dropdown not-click"><a href="/p">Countries & Regions</a>
+      <ul class="dropdown">
+        <li class="leaf"><a href="http://www.state.gov/misc/list/index.htm">A-Z List of Countries and Other Areas</a></li>
+        <li class="leaf"><a href="http://www.state.gov/p/af/index.htm">Africa (Sub-Sahara)</a></li>
+        <li class="leaf"><a href="http://www.state.gov/p/eap/index.htm">East Asia and the Pacific</a></li>
+        <li class="leaf"><a href="http://www.state.gov/p/eur/index.htm">Europe and Eurasia</a></li>
+        <li class="leaf"><a href="http://www.state.gov/p/nea/index.htm">Near East (northern Africa, Middle East)</a></li>
+        <li class="leaf"><a href="http://www.state.gov/p/sca/index.htm">South and Central Asia</a></li>
+        <li class="leaf"><a href="http://www.state.gov/p/wha/index.htm">Western Hemisphere (Latin America, the Caribbean, Canada)</a></li>
+        <li class="leaf"><a href="http://www.state.gov/p/io/index.htm">UN & Other International Organizations</a></li>
+      </ul>
+    </li>
+    <li class="expanded has-dropdown not-click"><a href="/media">Press</a>
+      <ul class="dropdown">
+        <li class="leaf"><a href="http://www.state.gov/r/pa/prs/dpb/index.htm">Department Press Briefings</a></li>
+        <li class="leaf"><a href="http://www.state.gov/r/pa/prs/ps/index.htm">Press Releases</a></li>
+        <li class="leaf"><a href="http://www.state.gov/r/pa/prs/appt/index.htm">Public Schedule</a></li>
+        <li class="leaf"><a href="http://www.state.gov/r/pa/ime/index.htm">International Media Engagement</a></li>
+        <li class="leaf"><a href="http://www.state.gov/misc/echannels/66791.htm">RSS News Feeds</a></li>
+        <li class="leaf"><a href="https://service.govdelivery.com/accounts/USSTATEBPA/subscriber/new">Email Subscriptions</a></li>
+        <li class="leaf"><a href="//fpc.state.gov">Foreign Press Center</a></li>
+      </ul>
+    </li>
+  </ul>
+</section>
+</nav>
+</div>
+</div>
+<!--googleon: all-->
+<main class="l-main homepage" id="main-content" role="main">
+<div class="l-top-stories container">
+<div class="row large-collapse">
+<div class="small-12 columns">
+<div class="top-stories-slick">
+<div class="slide">
+<div class="row collapse">
+<div class="small-12 medium-6 medium-push-6 large-7 large-push-5 columns">
+<div class="l-wrap">
+<div style="display: block; position: relative; max-width: 640px;">
+<div style="padding-top: 56.25%;">
+<iframe style="width: 100%; height: 100%; position: absolute; top: 0px; bottom: 0px; right: 0px; left: 0px;" mozallowfullscreen="mozallowfullscreen" webkitallowfullscreen="webkitallowfullscreen" allowfullscreen="allowfullscreen" src="//players.brightcove.net/1705665025/HJ8lQG1Eg_default/index.html?videoId=5249740661001"></iframe>
+</div>
+</div>
+</div>
+</div>
+<div class="small-12 medium-6 medium-pull-6 large-5 large-pull-7 columns">
+<div class="clearfix">
+<div class="l-bottom-gradient"></div>
+<div>
+<h3 aria-level="3" role="heading">
+<a tabindex="0" title="Foreign Affairs Day" href="https://www.state.gov/r/pa/prs/ps/2017/05/270651.htm">Foreign Affairs Day</a>
+</h3>
+</div>
+<div class="content-managed"><p>Secretary Tillerson delivers remarks paying tribute to those who made the ultimate sacrifice while serving the U.S. around the world. Watch a live broadcast of the Foreign Affairs Day Memorial Plaque Ceremony today at 4:15 p.m. EDT. <a href="http://www.state.gov/r/pa/prs/ps/2017/05/270651.htm">More&raquo;</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slide">
+<div class="row collapse">
+<div class="small-12 medium-6 medium-push-6 large-7 large-push-5 columns">
+<div>
+<a title="Date: 05/04/2017 Description: Secretary Tillerson Poses for a Family Photo With Foreign Ministers of the ASEAN Member States in Washington - State Dept Image" href="https://www.state.gov/r/pa/prs/ps/2017/05/270657.htm"><img class="top-story-photo" src="/img/17/69330/34320158701_d1e472b158_k_640_1.jpg" alt="Date: 05/04/2017 Description: Secretary Tillerson Poses for a Family Photo With Foreign Ministers of the ASEAN Member States in Washington - State Dept Image" height="360" width="640"></a>
+</div>
+</div>
+<div class="small-12 medium-6 medium-pull-6 large-5 large-pull-7 columns">
+<div class="clearfix">
+<div class="l-bottom-gradient"></div>
+<div>
+<h3 aria-level="3" role="heading">
+<a tabindex="0" title="Meeting With ASEAN Foreign Ministers" href="https://www.state.gov/r/pa/prs/ps/2017/05/270657.htm">Meeting With ASEAN Foreign Ministers</a>
+</h3>
+</div>
+<div class="content-managed"><p><strong>May 4:</strong> Secretary Tillerson hosted a special U.S.-ASEAN Foreign Ministers meeting, reinforcing the Strategic Partnership between the United States and ASEAN and commemorating the 40th anniversary of U.S.-ASEAN relations. <a href="https://www.state.gov/r/pa/prs/ps/2017/05/270657.htm">Readout&raquo;</a> <a href="https://www.state.gov/r/pa/prs/ps/2017/05/270660.htm">Briefing&raquo;</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slide">
+<div class="row collapse">
+<div class="small-12 medium-6 medium-push-6 large-7 large-push-5 columns">
+<div class="l-wrap">
+<div style="display: block; position: relative; max-width: 640px;">
+<div style="padding-top: 56.25%;">
+<iframe style="width: 100%; height: 100%; position: absolute; top: 0px; bottom: 0px; right: 0px; left: 0px;" mozallowfullscreen="mozallowfullscreen" webkitallowfullscreen="webkitallowfullscreen" allowfullscreen="allowfullscreen" src="//players.brightcove.net/1705665025/HJ8lQG1Eg_default/index.html?videoId=5420267717001"></iframe>
+</div>
+</div>
+</div>
+</div>
+<div class="small-12 medium-6 medium-pull-6 large-5 large-pull-7 columns">
+<div class="clearfix">
+<div class="l-bottom-gradient"></div>
+<div>
+<h3 aria-level="3" role="heading">
+<a tabindex="0" title="Remarks to State Department Employees" href="https://www.state.gov/secretary/remarks/2017/05/270620.htm">Remarks to State Department Employees</a>
+</h3>
+</div>
+<div class="content-managed"><p><strong>Secretary Tillerson (May 3): </strong>&quot;I think it&rsquo;s important to also remember that guiding all of our foreign policy actions are our fundamental values: our values around freedom, human dignity, the way people are treated. Those are our values. Those are not our policies; they&rsquo;re values.&quot; <a href="https://www.state.gov/secretary/remarks/2017/05/270620.htm">Full Text&raquo;</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row small-uncollapse medium-collapse">
+<div class="small-12 columns">
+<div class="l-browse">
+<div class="row collapse">
+<div class="small-12 medium-4 medium-offset-8 columns">
+<div class="l-search-wrapper">
+<form method="get" action="//findit.state.gov/search" name="gs">
+<label class="hide" for="l-search-input">Search Input</label><input placeholder="Search Site..." id="l-search-input" name="query" type="text"><input type="hidden" name="affiliate" value="dos_stategov"><button title="Search" name="search" type="submit" onclick="if($('#l-search-input').val()=='Search Site...')$('#l-search-input').val('');"><span class="fa icon-search"></span></button>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row small-uncollapse medium-collapse">
+<div class="small-12 medium-4 medium-push-8 columns">
+<div class="row">
+<div class="small-12 columns">
+<div class="l-daily-press-briefing"><div class="l-daily-press-briefing"><h3 role="heading" aria-level="3">Department Press Briefing</h3>
+<h4 role="heading" aria-level="4"><a href="//www.state.gov/r/pa/prs/dpb/2017/04/270502.htm">April 27, 2017</a></h4>
+  <div style="display: block; position: relative; max-width: 640px;">
+	                <div style="padding-top: 56.25%;">
+	                <iframe src="//players.brightcove.net/1705665025/HJ8lQG1Eg_default/index.html?videoId=5413780045001" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" style="width: 100%; height: 100%; position: absolute; top: 0px; bottom: 0px; right: 0px; left: 0px;"></iframe></div></div>
+</div>
+</div>
+</div>
+<div class="small-12 columns">
+<div class="l-quick-links"></div>
+</div>
+</div>
+</div>
+<div class="small-12 medium-8 medium-pull-4 columns">
+<div class="l-in-other-news">
+<div class="l-wrap">
+<h3 class="fancy" aria-level="3" role="heading">
+<span>In Other News</span>
+</h3>
+<article>
+<h4 aria-level="4" role="heading">
+<span class="field-content"><a title="Under Secretary Shannon's Travel" href="http://www.state.gov/r/pa/prs/ps/2017/05/270674.htm">Under Secretary Shannon's Travel</a></span>
+</h4>
+<div class="content-managed"><p>On May 8, Under Secretary Shannon will travel to New York City to meet with Russian Deputy Foreign Minister Ryabkov to discuss a range of bilateral issues. <a href="http://www.state.gov/r/pa/prs/ps/2017/05/270674.htm">More&raquo;</a></p>
+</div>
+<a class="b-more" href="http://www.state.gov/r/pa/prs/ps/2017/05/270674.htm" role="button">More</a>
+</article>
+<article>
+<h4 aria-level="4" role="heading">
+<span class="field-content"><a title="Pre-Trial Detention for Members of ADHOC in Cambodia" href="https://www.state.gov/r/pa/prs/ps/2017/05/270676.htm">Pre-Trial Detention for Members of ADHOC in Cambodia</a></span>
+</h4>
+<div class="content-managed"><p><strong>Spokesperson Nauert </strong><strong>(May 5)</strong>: &quot;We note with concern reports the impact this prolonged detention is having on the families of the imprisoned and the unreasonable delay in proceeding to trial.&quot; <a href="http://www.state.gov/r/pa/prs/ps/2017/05/270676.htm">Full Text&raquo;</a></p>
+</div>
+<a class="b-more" href="https://www.state.gov/r/pa/prs/ps/2017/05/270676.htm" role="button">More</a>
+</article>
+<article>
+<h4 aria-level="4" role="heading">
+<span class="field-content"><a title="De-Escalation Zones Plan for Syria" href="http://www.state.gov/r/pa/prs/ps/2017/05/270647.htm">De-Escalation Zones Plan for Syria</a></span>
+</h4>
+<div class="content-managed"><p><strong>May 4:</strong> Russia, Turkey, and Iran today announced agreement on an effort to reduce the violence in certain areas of Syria. The U.S. continues to have concerns about the agreement. <a href="http://www.state.gov/r/pa/prs/ps/2017/05/270647.htm">More&raquo;</a></p>
+</div>
+<a class="b-more" href="http://www.state.gov/r/pa/prs/ps/2017/05/270647.htm" role="button">More</a>
+</article>
+</div>
+</div>
+</div>
+</div>
+<div data-equalizer-mq="medium-up" data-equalizer="equalize" class="row">
+<div class="small-12 medium-4 columns l-collapse-left">
+<div data-equalizer-watch="equalize" class="l-twitter">
+<div class="l-wrap">
+<h3 tabindex="0" role="tab" aria-controls="panel1" class="tab accordion fancy" id="tab1">
+<span>Twitter</span>
+</h3>
+<div role="tabpanel" aria-labelledby="tab1" class="content accordion" id="panel1">
+<div class="l-inner">
+<div class="l-twitter-feed responsive">
+<a height="390" data-screen-name="StateDept" data-link-color="#017bc6" data-chrome="noheader nofooter noborders" data-widget-id="417719989978664960" href="https://twitter.com/StateDept" class="twitter-timeline">Tweets by @StateDept</a><script>
+                        !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";js.setAttribute('onload', "twttr.events.bind('rendered',function(e) {afterTwitterLoad()});");fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+                        function afterTwitterLoad(){
+                          //my_function();
+                          jQuery(document).foundation('equalizer', 'reflow');
+                        }
+                      </script>
+</div>
+</div>
+<a class="b-more" href="https://twitter.com/StateDept" role="button">More</a>
+</div>
+</div>
+</div>
+</div>
+<div class="small-12 medium-4 columns l-collapse-both">
+<div data-equalizer-watch="equalize" class="l-flickr">
+<div class="l-wrap">
+<h3 tabindex="-1" role="tab" aria-controls="panel3" class="tab accordion fancy" id="tab3">
+<span>Flickr</span>
+</h3>
+<div role="tabpanel" aria-labelledby="tab3" class="content accordion" id="panel3">
+<div class="l-inner">
+<div class="l-flickr-feed">
+<section>
+<div class="flickr-photoset">
+<div class="flickr-album clearfix"></div>
+</div>
+</section>
+</div>
+</div>
+<a class="b-more" href="https://www.flickr.com/photos/statephotos/" role="button">More</a>
+</div>
+</div>
+</div>
+</div>
+<div class="small-12 medium-4 columns l-collapse-right">
+<div data-equalizer-watch="equalize" class="l-flickr">
+<div class="l-wrap">
+<h3 tabindex="-1" role="tab" aria-controls="panel3" class="tab accordion fancy" id="tab3">
+<span>Facebook</span>
+</h3>
+<div role="tabpanel" aria-labelledby="tab3" class="content accordion" id="panel3">
+<div class="l-inner">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+					  var js, fjs = d.getElementsByTagName(s)[0];
+					  if (d.getElementById(id)) return;
+					  js = d.createElement(s); js.id = id;
+					  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8";
+					  fjs.parentNode.insertBefore(js, fjs);
+					}(document, 'script', 'facebook-jssdk'));</script>
+<div data-show-facepile="false" data-hide-cover="false" data-adapt-container-width="true" data-small-header="false" data-height="400" data-width="500" data-tabs="timeline" data-href="https://www.facebook.com/usdos" class="fb-page">
+<blockquote class="fb-xfbml-parse-ignore" cite="https://www.facebook.com/usdos">
+<a href="https://www.facebook.com/usdos">U.S. Department of State</a>
+</blockquote>
+</div>
+</div>
+<a class="b-more" href="https://www.facebook.com/usdos" role="button">More</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>
+<!--googleoff: all-->
+<div class="row collapse">
+<div class="small-12 columns">
+<footer class="l-footer" role="contentinfo">
+<div class="row collapse">
+<div class="small-12 columns">
+<div class="l-dos-divider text-center">
+<img alt="Image - DOS Divider" data-interchange="[/state-responsive/images/dos_divider.png, (default)], [/state-responsive/images/dos_divider@2x.png, (retina)]"><noscript>
+<img alt="Image - DOS Divider" src="/state-responsive/images/dos_divider.png"></noscript>
+</div>
+</div>
+</div>
+<div class="l-footer-menu clearfix">
+  <div class="nav-collapse">
+    <section>
+      <div class="row">
+        <div class="small-12 medium-3 columns">
+          <dl>
+            <dt><h3 role="heading" aria-level="3"><a href="/business" class="active">Business</a></h3></dt>
+            <div class="row">
+              <dd><a href="http://www.state.gov/e/eb/cba/index.htm">Commercial and Business Affairs Office</a></dd>
+              <dd><a href="http://www.state.gov/documents/organization/111812.pdf">Key Officers of Foreign Service Posts</a></dd>
+              <dd><a href="http://www.state.gov/s/partnerships/">Office of Global Partnerships</a></dd>
+              <dd><a href="http://www.state.gov/s/dmr/sdbu/index.htm">Small and Disadvantaged Business Utilization</a></dd>
+              <dd><a href="http://www.state.gov/e/eb/tpp/index.htm">Trade Policy and Negotiations</a></dd>
+            </div>
+          </dl>
+        </div>
+        <div class="small-12 medium-3 columns">
+          <dl>
+            <dt><h3 role="heading" aria-level="3"><a href="/careers" class="active">Careers</a></h3></dt>
+            <div class="row">
+              <dd><a href="https://careers.state.gov/work/civil-service/">Civil Service Officer</a></dd>
+              <dd><a href="https://careers.state.gov/work/foreign-service/consular-fellows">Consular Fellows Program</a></dd>
+              <dd><a href="https://careers.state.gov/work/foreign-service/officer/">Foreign Service Officer</a></dd>
+              <dd><a href="https://careers.state.gov/work/foreign-service/specialist/">Foreign Service Specialist</a></dd>
+              <dd><a href="http://iocareers.state.gov/Main/Home">International Organizations</a></dd>
+              <dd><a href="https://careers.state.gov/intern/student-programs/">Student Programs</a></dd>
+              <dd><a href="http://www.usajobs.gov/">USAJobs: Working for America</a></dd>
+            </div>
+          </dl>
+        </div>
+        <div class="small-12 medium-3 columns">
+          <dl>
+            <dt><h3 role="heading" aria-level="3"><a href="/youthandeducation" class="active">Education & Exchanges</a></h3></dt>
+            <div class="row">
+              <dd><a href="http://history.state.gov/">Diplomatic History</a></dd>
+              <dd><a href="http://diplomacy.state.gov/discoverdiplomacy/">Discover Diplomacy</a></dd>
+              <dd><a href="http://j1visa.state.gov">Exchange Visitor Program</a></dd>
+              <dd><a href="http://eca.state.gov/fulbright">Fulbright Program</a></dd>
+              <dd><a href="http://www.state.gov/r/ppr/gyi/index.htm">Global Youth Issues</a></dd>
+              <dd><a href="http://www.state.gov/m/a/os/">Office of Overseas Schools</a></dd>
+              <dd><a href="http://diplomacy.state.gov/">U.S. Diplomacy Center</a></dd>
+              <dd><a href="http://eca.state.gov/programs-initiatives/youth-programs">Youth Exchange Programs</a></dd>
+            </div>
+          </dl>
+        </div>
+        <div class="small-12 medium-3 columns">
+          <dl>
+            <dt><h3 role="heading" aria-level="3"><a href="/travel" class="active">Travel</a></h3></dt>
+            <div class="row">
+              <dd><a href="https://travel.state.gov/content/travel/en/legal-considerations/judicial/authentication-of-documents.html">Authentications and Apostilles</a></dd>
+              <dd><a href="http://travel.state.gov/content/passports/english/emergencies.html">Emergency Services</a></dd>
+              <dd><a href="http://aoprals.state.gov/content.asp?content_id=184&menu_id=78">Foreign Per Diem Rates</a></dd>
+              <dd><a href="http://adoption.state.gov/">Intercountry Adoption</a></dd>
+              <dd><a href="http://travel.state.gov/content/childabduction/english.html">Parental Child Abduction</a></dd>
+              <dd><a href="http://travel.state.gov/content/passports/english/passports.html">Passports</a></dd>
+              <dd><a href="http://travel.state.gov/content/passports/english/go.html">Travel Information</a></dd>
+              <dd><a href="https://travel.state.gov/content/visas/en.html">Visas</a></dd>
+            </div>
+          </dl>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>
+<div class="row">
+<div class="small-12 columns">
+<div class="l-footer-links">
+<ul class="no-bullet">
+<li>
+<a target="_self" href="/misc/112234.htm">Archive</a>
+</li>
+<li>
+<a target="_self" href="https://register.state.gov/contactus/">Contact Us</a>
+</li>
+<li>
+<a target="_self" href="http://contact-us.state.gov/cgi-bin/state.cfg/php/enduser/std_alp.php">FAQ</a>
+</li>
+<li>
+<a target="_self" href="//findit.state.gov/search?affiliate=dos_stategov">Search</a>
+</li>
+<li>
+<a class="addthis_button" id="bookmark" target="_self" href="http://www.addthis.com/bookmark.php">Share</a><script type="text/javascript" src="/js/addthis.js"></script><script async="async" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4eaec24f65984103" type="text/javascript"></script>
+</li>
+<li>
+<a target="_self" href="/r/pa/ei/subject">Subject Index</a>
+</li>
+</ul>
+<ul class="no-bullet">
+<li>
+<a target="_self" href="/misc/207091.htm">Accessibility Statement</a>
+</li>
+<li>
+<a target="_self" href="/misc/87529.htm#copyright">Copyright Information</a>
+</li>
+<li>
+<a target="_self" href="/misc/152386.htm">External Link Policy</a>
+</li>
+<li>
+<a target="_self" href="https://foia.state.gov/">FOIA</a>
+</li>
+<li>
+<a target="_self" href="/s/ocr/c11528.htm">No Fear Act</a>
+</li>
+<li>
+<a target="_self" href="/misc/415.htm">Privacy Policy</a>
+</li>
+</ul>
+<ul class="no-bullet">
+<li>
+<a target="_self" href="https://oig.state.gov/">Office of Inspector General </a>
+</li>
+<li>
+<a target="_self" href="http://business.usa.gov/">BusinessUSA</a>
+</li>
+<li>
+<a target="_self" href="https://www.whitehouse.gov/">White House</a>
+</li>
+<li>
+<a target="_self" href="https://www.usa.gov/">USA.gov</a>
+</li>
+<li>
+<a target="_self" href="https://www.usembassy.gov/">U.S. Embassies</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="l-footer-text">
+<hr>
+<div class="row">
+<div class="small-12 columns">
+<p>
+<span>The Office of Website Management, Bureau of Public Affairs, manages this site as a portal for information from the U.S. State Department.</span><span>External links to other Internet sites should not be construed as an endorsement of the views or privacy policies contained therein.</span><span>Note: documents in Portable Document Format (PDF) require Adobe Acrobat Reader 5.0 or higher to view, <a target="_blank" href="http://get.adobe.com/reader/">download Adobe Acrobat Reader</a>.</span>
+</p>
+</div>
+</div>
+</div>
+</footer>
+<a class="button b-back-to-top" href="#top" role="button">Top</a>
+</div>
+</div>
+<script type="text/javascript">
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+          ga('create', 'UA-62925817-1', 'auto');
+          ga('send', 'pageview');
+      </script><script>
+      // Adding this here vs. "scripts.js" since this causes the IMCE buttons to disappear when added to scripts.js.
+      // This is needed to keep the day cells in the DPB calendar the same height when buttons appear inside them.
+      //(function ($, Drupal, window, document, undefined) {
+        $(document).foundation({
+          equalizer: {
+            // Specify if Equalizer should make elements equal height once they become stacked.
+            equalize_on_stack: true
+          }
+        });
+      //})(jQuery, Drupal, this, this.document);
+    </script>
+<noscript>Javascript is disabled in your browser. For the best experience on this web site, please enable Javascript.</noscript>
+<!--googleon: all-->
+</div>
+</body>
+</html>
+
+http://www.flickr.com/photos/statephotos
+date:Fri May 05 16:47:33 EDT 2017
+IP:69.147.82.60
+length:139
+
+<p>Moved Permanently. Redirecting to <a href="https://www.flickr.com/photos/statephotos">https://www.flickr.com/photos/statephotos</a></p>
+
+https://www.state.gov/secretary/travel/index.htm
+date:Fri May 05 16:47:33 EDT 2017
+IP:23.66.202.12
+length:89278
+
+<!DOCTYPE html><html xmlns:esi="http://www.edge-delivery.org/esi/1.0" class="no-js">
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<link href="/state-responsive/images/favicons/apple-touch-icon-57x57.png" sizes="57x57" rel="apple-touch-icon">
+<link href="/state-responsive/images/favicons/apple-touch-icon-60x60.png" sizes="60x60" rel="apple-touch-icon">
+<link href="/state-responsive/images/favicons/apple-touch-icon-72x72.png" sizes="72x72" rel="apple-touch-icon">
+<link href="/state-responsive/images/favicons/apple-touch-icon-76x76.png" sizes="76x76" rel="apple-touch-icon">
+<link href="/state-responsive/images/favicons/apple-touch-icon-114x114.png" sizes="114x114" rel="apple-touch-icon">
+<link href="/state-responsive/images/favicons/apple-touch-icon-120x120.png" sizes="120x120" rel="apple-touch-icon">
+<link href="/state-responsive/images/favicons/apple-touch-icon-144x144.png" sizes="144x144" rel="apple-touch-icon">
+<link href="/state-responsive/images/favicons/apple-touch-icon-152x152.png" sizes="152x152" rel="apple-touch-icon">
+<link href="/state-responsive/images/favicons/apple-touch-icon-180x180.png" sizes="180x180" rel="apple-touch-icon">
+<link sizes="32x32" href="/state-responsive/images/favicons/favicon-32x32.png" type="image/png" rel="icon">
+<link sizes="192x192" href="/state-responsive/images/favicons/android-chrome-192x192.png" type="image/png" rel="icon">
+<link sizes="96x96" href="/state-responsive/images/favicons/favicon-96x96.png" type="image/png" rel="icon">
+<link sizes="16x16" href="/state-responsive/images/favicons/favicon-16x16.png" type="image/png" rel="icon">
+<link href="/state-responsive/images/favicons/manifest.json" rel="manifest">
+<meta content="#da532c" name="msapplication-TileColor">
+<meta content="/state-responsive/images/favicons/mstile-144x144.png" name="msapplication-TileImage">
+<meta content="#ffffff" name="theme-color">
+<title>Travels With the Secretary of State</title>
+<link href="/state-responsive/css/subpage.css" rel="stylesheet">
+<link href="/state-responsive/css/webfonts.css" rel="stylesheet">
+<script src="/state-responsive/js/vendor/jquery.js"></script><script src="/state-responsive/js/vendor/modernizr.min.js"></script><script src="/state-responsive/js/foundation.min.js"></script><script src="/state-responsive/js/vendor/slick.min.js"></script><script src="/state-responsive/js/vendor/responsive-nav.min.js"></script><script src="/state-responsive/js/vendor/jquery.doubleScroll.js"></script><script src="/state-responsive/js/scripts.js"></script><script src="/state-responsive/js/vendor/jquery.doubleScroll.js"></script><script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+<script id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOS" type="text/javascript" async="async"></script>
+<script language="javascript">
+                var item_type = 'c';
+                var item_id = '55624';
+                var embedded_plugin_status=new Array();
+                var embedded_plugin_Q = new Array();
+            </script><script>
+    $( document ).ready(function() {
+        $(".l-quick-links").load("/quicklinks_subpage.htm");
+    });
+    </script><script src="/js/highlights.js"></script>
+</head>
+<body onload="initializeMap();document.getElementById('maploading').style.display='none';document.getElementById('map-canvas').style.visibility='visible'">
+<a id="top"></a><a tabindex="1" class="element-invisible element-focusable skip show-on-focus" href="#main-content">Skip to Main Content</a>
+<div class="container">
+<!--googleoff: all-->
+<header class="l-header" role="banner">
+<div class="row">
+<div class="small-12 columns">
+<div class="l-logo left">
+<a tabindex="2" class="i-dos-seal" href="/"><span class="hide">DOS Seal</span></a>
+<div class="left">
+<h1 class="i-dos-text" aria-level="1" role="heading">U.S. Department of State</h1>
+<h2 aria-level="2" role="heading">Diplomacy in Action</h2>
+</div>
+</div>
+<nav class="l-social" role="navigation">
+<ul class="inline-list">
+<li>
+<a tabindex="3" target="_self" title="Video" href="http://video.state.gov/"><span class="fa icon-video-camera fa-lg"><span class="hide">Video</span></span></a>
+</li>
+<li>
+<a tabindex="4" target="_self" title="Twitter" href="https://twitter.com/StateDept"><span class="fa icon-twitter fa-lg"><span class="hide">Twitter</span></span></a>
+</li>
+<li>
+<a tabindex="5" target="_self" title="Facebook" href="https://www.facebook.com/usdos"><span class="fa icon-facebook fa-lg"><span class="hide">Facebook</span></span></a>
+</li>
+<li>
+<a tabindex="6" aria-expanded="false" aria-controls="d-more-drop" data-options="is_hover:false;" data-dropdown="d-more-drop" class="d-more" target="_self" href="#">More</a>
+<ul tabindex="-1" aria-hidden="true" data-dropdown-content="drop" class="f-dropdown tiny" id="d-more-drop">
+<li>
+<a target="_self" href="http://www.flickr.com/photos/statephotos"><span class="fa icon-flickr fa-lg fa-fw"></span>Flickr</a>
+</li>
+<li>
+<a target="_self" href="http://www.youtube.com/user/statevideo"><span class="fa icon-youtube fa-lg fa-fw"></span>YouTube</a>
+</li>
+<li>
+<a target="_self" href="http://instagram.com/statedept"><span class="fa icon-instagram fa-lg fa-fw"></span>Instagram</a>
+</li>
+<li>
+<a target="_self" href="https://plus.google.com/u/0/102630068213960289352#102630068213960289352/posts"><span class="fa icon-google-plus-square fa-lg fa-fw"></span>Google+</a>
+</li>
+<li>
+<a target="_self" href="http://statedept.tumblr.com/"><span class="fa icon-tumblr fa-lg fa-fw"></span>Tumblr</a>
+</li>
+<li>
+<a target="_self" href="http://blogs.state.gov/"><span class="fa icon-comments-o fa-lg fa-fw"></span>DipNote Blog</a>
+</li>
+<li>
+<a target="_self" href="/misc/echannels/66791.htm"><span class="fa icon-rss fa-lg fa-fw"></span>RSS</a>
+</li>
+<li>
+<a target="_self" href="https://service.govdelivery.com/service/multi_subscribe.html?code=USSTATEBPA"><span class="fa icon-check fa-lg fa-fw"></span>Subscribe</a>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+<a class="customTopbarToggle show-for-small-only" href="#"><span class="hide">Toggle Topbar</span></a>
+</div>
+</div>
+</header>
+<div class="l-topbar">
+<div class="">
+<nav data-options="mobile_show_parent_link:true;back_text:&laquo; Back" data-topbar="topbar" class="top-bar" role="navigation">
+<ul class="title-area show-for-medium-up">
+<li class="name"></li>
+<li class="toggle-topbar menu-icon" id="customToggle">
+<a href="#"><span><span class="hide">Menu</span></span></a>
+</li>
+</ul>
+<section class="top-bar-section">
+  <ul id="main-menu" class="main-nav left">
+    <li class="expanded has-dropdown not-click"><a href="/secretary">Secretary Tillerson</a>
+      <ul class="dropdown">
+        <li class="leaf"><a href="https://www.state.gov/secretary/remarks/2017/">Remarks</a></li>
+        <li class="leaf"><a href="https://www.state.gov/secretary/travel/index.htm">Travel</a></li>
+        <li class="leaf"><a href="http://www.state.gov/r/pa/ei/biog/267393.htm">Biography</a></li>
+      </ul>
+    </li>
+    <li class="expanded has-dropdown not-click"><a href="/aboutstate">About</a>
+      <ul class="dropdown">
+        <li class="leaf"><a href="http://www.state.gov/s/d/rm/index.htm#mission">Mission Statement</a></li>
+        <li class="leaf"><a href="http://www.state.gov/s/dmr/qddr/index.htm">QDDR</a></li>
+        <li class="leaf"><a href="http://www.state.gov/r/pa/ei/rls/dos/99484.htm">Organization Chart</a></li>
+        <li class="leaf"><a href="http://www.state.gov/s/d/rm/c6112.htm">Budget</a></li>
+        <li class="leaf"><a href="http://www.state.gov/r/pa/map/index.htm">Department of State by State</a></li>
+        <li class="leaf"><a href="http://www.state.gov/m/a/dir/rulemaking/index.htm">Rules and Info Collection</a></li>
+        <li class="leaf"><a href="http://www.state.gov/s/partnerships/partner/index.htm">Partner With State</a></li>
+        <li class="leaf"><a href="http://www.state.gov/misc/19232.htm">Senior Officials</a></li>
+        <li class="leaf"><a href="http://www.state.gov/r/pa/ei/rls/dos/1718.htm">Alphabetical List of Bureaus and Offices</a></li>
+        <li class="leaf"><a href="http://www.state.gov/r/pa/ei/rls/dos/160060.htm">Advisory Groups</a></li>
+        <li class="leaf"><a href="http://www.state.gov/r/pa/ei/biog/index.htm">Biographies</a></li>
+        <li class="leaf"><a href="http://www.state.gov/s/d/rm/c6113.htm">Plans, Performance, Budgets</a></li>
+        <li class="leaf"><a href="http://www.state.gov/s/d/rm/rls/perfrpt/index.htm">Agency Financial Reports</a></li>
+        <li class="leaf"><a href="http://www.state.gov/open/index.htm">Open Government Initiative</a></li>
+        <li class="leaf"><a href="http://www.state.gov/s/ocr/c11528.htm">No FEAR Act</a></li>
+        <li class="leaf"><a href="http://oig.state.gov/hotline/">Inspector General Hotline</a></li>
+        <li class="leaf"><a href="http://www.usembassy.gov/">U.S. Embassies and Other Posts</a></li>
+        <li class="leaf"><a href="http://www.afsa.org/">American Foreign Service Association</a></li>
+      </ul>
+    </li>
+    <li class="expanded has-dropdown not-click"><a href="/whatwedo">What We Do</a>
+      <ul class="dropdown">
+        <li class="leaf"><a href="http://www.state.gov/t/index.htm">Arms Control and International Security</a></li>
+        <li class="leaf"><a href="http://www.state.gov/j/index.htm">Civilian Security, Democracy, and Human Rights</a></li>
+        <li class="leaf"><a href="http://www.state.gov/e/index.htm">Economic Growth, Energy, and the Environment</a></li>
+        <li class="leaf"><a href="http://www.state.gov/m/index.htm">Management</a></li>
+        <li class="leaf"><a href="http://www.state.gov/p/index.htm">Political Affairs</a></li>
+        <li class="leaf"><a href="http://www.state.gov/r/index.htm">Public Diplomacy and Public Affairs</a></li>
+      </ul>
+    </li>
+    <li class="expanded has-dropdown not-click"><a href="/policy">Policy Issues</a>
+      <ul class="dropdown">
+        <li class="leaf"><a href="http://www.state.gov/anticorruption/index.htm">Anti-Corruption</a></li>
+        <li class="leaf"><a href="http://www.state.gov/e/oes/index.htm">Climate & Environment</a></li>
+        <li class="leaf"><a href="http://www.state.gov/j/ct/index.htm">Counterterrorism & Countering Violent Extremism</a></li>
+        <li class="leaf"><a href="http://www.state.gov/s/cyberissues/index.htm">Cyber Issues</a></li>
+        <li class="leaf"><a href="http://www.state.gov/s/seci/index.htm">Defeating ISIS</a></li>
+        <li class="leaf"><a href="http://www.state.gov/j/drl/index.htm">Democracy & Human Rights</a></li>
+        <li class="leaf"><a href="http://www.state.gov/e/eb/index.htm">Economic Affairs & Trade Policy</a></li>
+        <li class="leaf"><a href="http://www.state.gov/e/enr/index.htm">Energy</a></li>
+        <li class="leaf"><a href="http://www.state.gov/s/globalfoodsecurity/index.htm">Food Security</a></li>
+        <li class="leaf"><a href="http://www.state.gov/s/gac/index.htm">Health Diplomacy</a></li>
+        <li class="leaf"><a href="http://www.state.gov/t/isn/index.htm">Nonproliferation</a></li>
+        <li class="leaf"><a href="http://www.state.gov/e/oes/ocns/opa/index.htm">Oceans & Arctic</a></li>
+        <li class="leaf"><a href="http://www.state.gov/j/prm/index.htm">Refugees</a></li>
+        <li class="leaf"><a href="http://www.state.gov/j/tip/index.htm">Trafficking in Persons</a></li>
+        <li class="leaf"><a href="http://www.state.gov/s/gwi/index.htm">Women's Issues</a></li>
+      </ul>
+    </li>
+    <li class="expanded has-dropdown not-click"><a href="/p">Countries & Regions</a>
+      <ul class="dropdown">
+        <li class="leaf"><a href="http://www.state.gov/misc/list/index.htm">A-Z List of Countries and Other Areas</a></li>
+        <li class="leaf"><a href="http://www.state.gov/p/af/index.htm">Africa (Sub-Sahara)</a></li>
+        <li class="leaf"><a href="http://www.state.gov/p/eap/index.htm">East Asia and the Pacific</a></li>
+        <li class="leaf"><a href="http://www.state.gov/p/eur/index.htm">Europe and Eurasia</a></li>
+        <li class="leaf"><a href="http://www.state.gov/p/nea/index.htm">Near East (northern Africa, Middle East)</a></li>
+        <li class="leaf"><a href="http://www.state.gov/p/sca/index.htm">South and Central Asia</a></li>
+        <li class="leaf"><a href="http://www.state.gov/p/wha/index.htm">Western Hemisphere (Latin America, the Caribbean, Canada)</a></li>
+        <li class="leaf"><a href="http://www.state.gov/p/io/index.htm">UN & Other International Organizations</a></li>
+      </ul>
+    </li>
+    <li class="expanded has-dropdown not-click"><a href="/media">Press</a>
+      <ul class="dropdown">
+        <li class="leaf"><a href="http://www.state.gov/r/pa/prs/dpb/index.htm">Department Press Briefings</a></li>
+        <li class="leaf"><a href="http://www.state.gov/r/pa/prs/ps/index.htm">Press Releases</a></li>
+        <li class="leaf"><a href="http://www.state.gov/r/pa/prs/appt/index.htm">Public Schedule</a></li>
+        <li class="leaf"><a href="http://www.state.gov/r/pa/ime/index.htm">International Media Engagement</a></li>
+        <li class="leaf"><a href="http://www.state.gov/misc/echannels/66791.htm">RSS News Feeds</a></li>
+        <li class="leaf"><a href="https://service.govdelivery.com/accounts/USSTATEBPA/subscriber/new">Email Subscriptions</a></li>
+        <li class="leaf"><a href="//fpc.state.gov">Foreign Press Center</a></li>
+      </ul>
+    </li>
+  </ul>
+</section>
+</nav>
+</div>
+</div>
+<!--googleon: all-->
+<link href="/state-responsive/css/secretary-travel/odometer-theme-car.css" rel="stylesheet">
+<script src="/state-responsive/js/secretary-travel/odometer-dos.min.js"></script><script src="/state-responsive/js/secretary-travel/travel-stats.js"></script>
+<style>.flexible-container p {margin: 0;}</style>
+<main class="l-main subpage" id="main-content" role="main">
+<div class="row small-uncollapse medium-collapse">
+<div class="small-12 columns">
+<div class="l-browse">
+<div class="row collapse">
+<div class="small-12 medium-4 medium-offset-8 columns">
+<div class="l-search-wrapper">
+<form method="get" action="//findit.state.gov/search" name="gs">
+<label class="hide" for="l-search-input">Search Input</label><input placeholder="Search Site..." id="l-search-input" name="query" type="text"><input type="hidden" name="affiliate" value="dos_stategov"><button title="Search" name="search" type="submit" onclick="if($('#l-search-input').val()=='Search Site...')$('#l-search-input').val('');"><span class="fa icon-search"></span></button>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row show-for-small-only">
+<div class="small-12 text-center columns">
+<a class="button b-subnav-jump" href="#subnav-anchor" role="button">Jump to In This Section</a>
+</div>
+</div>
+<div class="row large-collapse">
+<div class="small-12 medium-9 medium-push-3 large-9 large-push-3 l-padding-left columns">
+<a id="main-content"></a><ul class="breadcrumbs"><li><a href="/">Home</a></li><li><a href='http://www.state.gov/secretary/index.htm'>Secretary of State</a></li></ul><div class="l-page-title clearfix">
+<h2 class="title left" id="page-title" aria-level="2" role="heading">Travels With the Secretary of State</h2>
+<div class="right">
+<div class="l-addthis-container right">
+<div class="addthis_toolbox addthis_default_style addthis_24x24_style">
+<a class="addthis_button_facebook"></a><a class="addthis_button_twitter"></a>
+                      <a class="addthis_button_google_plusone" g:plusone:annotation="none" g:plusone:size="small"></a>
+                      <a class="addthis_button_compact">Share</a>
+</div>
+</div>
+</div>
+</div>
+<div class="l-outer-line gradient">
+<div class="l-inner-background bg-secretary-travel">
+<div class="l-wrap-gradient-bottom">
+<div class="row collapse">
+<div class="small-12 columns">
+<article class="node node-page">
+<span class="rdf-meta element-hidden" content="Travels With the Secretary of State" property="dc:title"></span>
+<div class="field-collection-container clearfix">
+<div class="field field-name-field-attached-media field-type-field-collection field-label-hidden field-wrapper">
+<div class="field-collection-view clearfix view-mode-full field-collection-view-final">
+<div class="l-attached-media small-12 medium-6 right">
+</div>
+<div class="field field-name-field-attached-text field-type-text-long field-label-hidden field-wrapper"><style>
+.responsive-gallery-right {
+float:right;
+margin-left:10px;
+-moz-box-sizing: content-box !important; /*used to override ryders reset *.* setting */
+-webkit-box-sizing: content-box !important; /*used to override ryders reset *.* setting */
+box-sizing: content-box !important; /*used to override ryders reset *.* setting */
+}
+.responsive-gallery-left {
+float:left;
+margin-right:10px;
+-moz-box-sizing: content-box !important; /*used to override ryders reset *.* setting */
+-webkit-box-sizing: content-box !important; /*used to override ryders reset *.* setting */
+box-sizing: content-box !important; /*used to override ryders reset *.* setting */
+}
+.responsive-gallery-none {
+float:none;
+text-align:left;
+-moz-box-sizing: content-box !important; /*used to override ryders reset *.* setting */
+-webkit-box-sizing: content-box !important; /*used to override ryders reset *.* setting */
+box-sizing: content-box !important; /*used to override ryders reset *.* setting */
+}
+</style>
+<div class="small-12 large-6 l-attached-media responsive-gallery-right" style="max-width:432px;max-height:243px;">
+<div class="slideshow-slick slider-for attached-media  plugin-num-6109251">
+<figure class="slide">
+<span class="slide-counter">1/28</span>
+<img src="/img/17/69313/33519110753_1b046b94f1_k_432_1.jpg" alt="Secretary Tillerson Poses for a Photo With UN Secretary-General Guterres at the United Nations in New York City" title="Secretary Tillerson Poses for a Photo With UN Secretary-General Guterres at the United Nations in New York City"
+width="432px" height="243px"
+>
+<figcaption class="slideshow-caption  plugin-num-6109251">
+<div class="l-caption-clipper">
+<div class="content-managed">
+Secretary Tillerson Poses for a Photo With UN Secretary-General Guterres at the United Nations in New York City
+<br/>State Dept Image / Apr 28, 2017
+</div>
+<div class="button b-close-caption toggle-caption plugin-num-6109251"></div>
+</div>
+</figcaption>
+<div class="button b-open-caption toggle-caption plugin-num-6109251"></div>
+</figure>
+<figure class="slide">
+<span class="slide-counter">2/28</span>
+<img src="/img/17/69312/34282930466_55467ab635_k_432_1.jpg" alt="Secretary Tillerson Chairs a UN Security Council Meeting on Denuclearization of the DPRK" title="Secretary Tillerson Chairs a UN Security Council Meeting on Denuclearization of the DPRK"
+width="432px" height="243px"
+>
+<figcaption class="slideshow-caption  plugin-num-6109251">
+<div class="l-caption-clipper">
+<div class="content-managed">
+Secretary Tillerson Chairs a UN Security Council Meeting on Denuclearization of the DPRK
+<br/>State Dept Image / Apr 28, 2017
+</div>
+<div class="button b-close-caption toggle-caption plugin-num-6109251"></div>
+</div>
+</figcaption>
+<div class="button b-open-caption toggle-caption plugin-num-6109251"></div>
+</figure>
+<figure class="slide">
+<span class="slide-counter">3/28</span>
+<img src="/img/17/69260/33949986876_5ea504512a_h_432_1.jpg" alt="Secretary Tillerson and Russian Foreign Minister Lavrov Shake Hands before Bilateral Meeting in Moscow" title="Secretary Tillerson and Russian Foreign Minister Lavrov Shake Hands before Bilateral Meeting in Moscow"
+width="432px" height="243px"
+>
+<figcaption class="slideshow-caption  plugin-num-6109251">
+<div class="l-caption-clipper">
+<div class="content-managed">
+Secretary Tillerson and Russian Foreign Minister Lavrov Shake Hands before Bilateral Meeting in Moscow
+<br/>State Dept Image / Apr 12, 2017
+</div>
+<div class="button b-close-caption toggle-caption plugin-num-6109251"></div>
+</div>
+</figcaption>
+<div class="button b-open-caption toggle-caption plugin-num-6109251"></div>
+</figure>
+<figure class="slide">
+<span class="slide-counter">4/28</span>
+<img src="/img/17/69240/tillerson_italy_airforce_432_1.jpg" alt="Secretary Tillerson poses for a photo with members of the Italian Air Force at Pisa Military Airport before departing Italy en route to Moscow, Russia, on April 11, 2017. " title="Secretary Tillerson poses for a photo with members of the Italian Air Force at Pisa Military Airport before departing Italy en route to Moscow, Russia, on April 11, 2017. "
+width="432px" height="243px"
+>
+<figcaption class="slideshow-caption  plugin-num-6109251">
+<div class="l-caption-clipper">
+<div class="content-managed">
+Secretary Tillerson poses for a photo with members of the Italian Air Force at Pisa Military Airport before departing Italy en route to Moscow, Russia, on April 11, 2017. 
+<br/>State Dept Image / Apr 11, 2017
+</div>
+<div class="button b-close-caption toggle-caption plugin-num-6109251"></div>
+</div>
+</figcaption>
+<div class="button b-open-caption toggle-caption plugin-num-6109251"></div>
+</figure>
+<figure class="slide">
+<span class="slide-counter">5/28</span>
+<img src="/img/17/69237/tillerson_italy_meeting_432_1.jpg" alt="Secretary Tillerson participates in a meeting on Syria at the G7 Ministers' Meeting in Lucca, Italy on April 11, 2017." title="Secretary Tillerson participates in a meeting on Syria at the G7 Ministers' Meeting in Lucca, Italy on April 11, 2017."
+width="432px" height="243px"
+>
+<figcaption class="slideshow-caption  plugin-num-6109251">
+<div class="l-caption-clipper">
+<div class="content-managed">
+Secretary Tillerson participates in a meeting on Syria at the G7 Ministers' Meeting in Lucca, Italy on April 11, 2017.
+<br/>State Dept Image / Apr 11, 2017
+</div>
+<div class="button b-close-caption toggle-caption plugin-num-6109251"></div>
+</div>
+</figcaption>
+<div class="button b-open-caption toggle-caption plugin-num-6109251"></div>
+</figure>
+<figure class="slide">
+<span class="slide-counter">6/28</span>
+<img src="/img/17/69241/tillerson_g7_family_432_1.jpg" alt="Secretary Tillerson poses for a family photo with his fellow G7+1 counterparts in Lucca, Italy, on April 11, 2017." title="Secretary Tillerson poses for a family photo with his fellow G7+1 counterparts in Lucca, Italy, on April 11, 2017."
+width="432px" height="243px"
+>
+<figcaption class="slideshow-caption  plugin-num-6109251">
+<div class="l-caption-clipper">
+<div class="content-managed">
+Secretary Tillerson poses for a family photo with his fellow G7+1 counterparts in Lucca, Italy, on April 11, 2017.
+<br/>State Dept Image / Apr 11, 2017
+</div>
+<div class="button b-close-caption toggle-caption plugin-num-6109251"></div>
+</div>
+</figcaption>
+<div class="button b-open-caption toggle-caption plugin-num-6109251"></div>
+</figure>
+<figure class="slide">
+<span class="slide-counter">7/28</span>
+<img src="/img/17/69243/tillerson_duomo_432_1.jpg" alt="Secretary Tillerson poses for a family photo with his G7+1 counterparts in front of the Duomo of Lucca, Italy, on April 10, 2017." title="Secretary Tillerson poses for a family photo with his G7+1 counterparts in front of the Duomo of Lucca, Italy, on April 10, 2017."
+width="432px" height="243px"
+>
+<figcaption class="slideshow-caption  plugin-num-6109251">
+<div class="l-caption-clipper">
+<div class="content-managed">
+Secretary Tillerson poses for a family photo with his G7+1 counterparts in front of the Duomo of Lucca, Italy, on April 10, 2017.
+<br/>State Dept Image / Apr 10, 2017
+</div>
+<div class="button b-close-caption toggle-caption plugin-num-6109251"></div>
+</div>
+</figcaption>
+<div class="button b-open-caption toggle-caption plugin-num-6109251"></div>
+</figure>
+<figure class="slide">
+<span class="slide-counter">8/28</span>
+<img src="/img/17/69242/tillerson_g7_family2_432_1.jpg" alt="Secretary Tillerson poses for a family photo with his fellow G7+1 counterparts in front of the Duomo of Lucca, Italy, on April 10, 2017." title="Secretary Tillerson poses for a family photo with his fellow G7+1 counterparts in front of the Duomo of Lucca, Italy, on April 10, 2017."
+width="432px" height="243px"
+>
+<figcaption class="slideshow-caption  plugin-num-6109251">
+<div class="l-caption-clipper">
+<div class="content-managed">
+Secretary Tillerson poses for a family photo with his fellow G7+1 counterparts in front of the Duomo of Lucca, Italy, on April 10, 2017.
+<br/>State Dept Image / Apr 10, 2017
+</div>
+<div class="button b-close-caption toggle-caption plugin-num-6109251"></div>
+</div>
+</figcaption>
+<div class="button b-open-caption toggle-caption plugin-num-6109251"></div>
+</figure>
+<figure class="slide">
+<span class="slide-counter">9/28</span>
+<img src="/img/17/69236/tillerson_memorial_432_1.jpg" alt="Secretary Tillerson meets survivors and families at Sant'Anna di Stazzema massacre memorial site in Lucca, Italy on April 10, 2017. " title="Secretary Tillerson meets survivors and families at Sant'Anna di Stazzema massacre memorial site in Lucca, Italy on April 10, 2017. "
+width="432px" height="243px"
+>
+<figcaption class="slideshow-caption  plugin-num-6109251">
+<div class="l-caption-clipper">
+<div class="content-managed">
+Secretary Tillerson meets survivors and families at Sant'Anna di Stazzema massacre memorial site in Lucca, Italy on April 10, 2017. 
+<br/>State Dept Image / Apr 10, 2017
+</div>
+<div class="button b-close-caption toggle-caption plugin-num-6109251"></div>
+</div>
+</figcaption>
+<div class="button b-open-caption toggle-caption plugin-num-6109251"></div>
+</figure>
+<figure class="slide">
+<span class="slide-counter">10/28</span>
+<img src="/img/17/69235/tillerson_memorialsite_ital_432_1.jpg" alt="Secretary Tillerson addresses reporters at Sant'Anna di Stazzema massacre memorial site in Lucca, Italy on April 10, 2017. " title="Secretary Tillerson addresses reporters at Sant'Anna di Stazzema massacre memorial site in Lucca, Italy on April 10, 2017. "
+width="432px" height="243px"
+>
+<figcaption class="slideshow-caption  plugin-num-6109251">
+<div class="l-caption-clipper">
+<div class="content-managed">
+Secretary Tillerson addresses reporters at Sant'Anna di Stazzema massacre memorial site in Lucca, Italy on April 10, 2017. 
+<br/>State Dept Image / Apr 10, 2017
+</div>
+<div class="button b-close-caption toggle-caption plugin-num-6109251"></div>
+</div>
+</figcaption>
+<div class="button b-open-caption toggle-caption plugin-num-6109251"></div>
+</figure>
+<figure class="slide">
+<span class="slide-counter">11/28</span>
+<img src="/img/17/69234/tillerson_japanfm2_432_1.jpg" alt="Secretary Tillerson shakes hands with Japan Foreign Minister Fumio Kishida, before a bilateral meeting during the G7 Ministers' meeting in Lucca, Italy on April 10, 2017." title="Secretary Tillerson shakes hands with Japan Foreign Minister Fumio Kishida, before a bilateral meeting during the G7 Ministers' meeting in Lucca, Italy on April 10, 2017."
+width="432px" height="243px"
+>
+<figcaption class="slideshow-caption  plugin-num-6109251">
+<div class="l-caption-clipper">
+<div class="content-managed">
+Secretary Tillerson shakes hands with Japan Foreign Minister Fumio Kishida, before a bilateral meeting during the G7 Ministers' meeting in Lucca, Italy on April 10, 2017.
+<br/>State Dept Image / Apr 10, 2017
+</div>
+<div class="button b-close-caption toggle-caption plugin-num-6109251"></div>
+</div>
+</figcaption>
+<div class="button b-open-caption toggle-caption plugin-num-6109251"></div>
+</figure>
+<figure class="slide">
+<span class="slide-counter">12/28</span>
+<img src="/img/17/69233/tillerson_japanfm_432_1.jpg" alt="Secretary Tillerson meets with Japan Foreign Minister Fumio Kishida for a bilateral meeting during the G7 Ministers' meeting in Lucca, Italy on April 10, 2017. " title="Secretary Tillerson meets with Japan Foreign Minister Fumio Kishida for a bilateral meeting during the G7 Ministers' meeting in Lucca, Italy on April 10, 2017. "
+width="432px" height="243px"
+>
+<figcaption class="slideshow-caption  plugin-num-6109251">
+<div class="l-caption-clipper">
+<div class="content-managed">
+Secretary Tillerson meets with Japan Foreign Minister Fumio Kishida for a bilateral meeting during the G7 Ministers' meeting in Lucca, Italy on April 10, 2017. 
+<br/>State Dept Image / Apr 10, 2017
+</div>
+<div class="button b-close-caption toggle-caption plugin-num-6109251"></div>
+</div>
+</figcaption>
+<div class="button b-open-caption toggle-caption plugin-num-6109251"></div>
+</figure>
+<figure class="slide">
+<span class="slide-counter">13/28</span>
+<img src="/img/17/69232/tillerson_italy_432_1.jpg" alt="Secretary Tillerson deplanes at the Italian Air Force in Pisa, Italy on April 9, 2017." title="Secretary Tillerson deplanes at the Italian Air Force in Pisa, Italy on April 9, 2017."
+width="432px" height="243px"
+>
+<figcaption class="slideshow-caption  plugin-num-6109251">
+<div class="l-caption-clipper">
+<div class="content-managed">
+Secretary Tillerson deplanes at the Italian Air Force in Pisa, Italy on April 9, 2017.
+<br/>State Dept Image / Apr 09, 2017
+</div>
+<div class="button b-close-caption toggle-caption plugin-num-6109251"></div>
+</div>
+</figcaption>
+<div class="button b-open-caption toggle-caption plugin-num-6109251"></div>
+</figure>
+<figure class="slide">
+<span class="slide-counter">14/28</span>
+<img src="/img/17/69167/32941073223_e5518cc3f3_k_432_1.jpg" alt="Secretary Tillerson Stands With NATO Colleagues for NATO Foreign Ministerial Family Photo in Brussels" title="Secretary Tillerson Stands With NATO Colleagues for NATO Foreign Ministerial Family Photo in Brussels"
+width="432px" height="243px"
+>
+<figcaption class="slideshow-caption  plugin-num-6109251">
+<div class="l-caption-clipper">
+<div class="content-managed">
+Secretary Tillerson Stands With NATO Colleagues for NATO Foreign Ministerial Family Photo in Brussels
+<br/>State Dept Image / Mar 31, 2017
+</div>
+<div class="button b-close-caption toggle-caption plugin-num-6109251"></div>
+</div>
+</figcaption>
+<div class="button b-open-caption toggle-caption plugin-num-6109251"></div>
+</figure>
+<figure class="slide">
+<span class="slide-counter">15/28</span>
+<img src="/img/17/69204/33600927242_2929250b5f_z_432_1.jpg" alt="Secretary Tillerson Poses for a Photo With NATO Secretary General Stoltenberg and Ukraine Foreign Minister Klimkin at NATO Headquarters in Brussels" title="Secretary Tillerson Poses for a Photo With NATO Secretary General Stoltenberg and Ukraine Foreign Minister Klimkin at NATO Headquarters in Brussels"
+width="432px" height="243px"
+>
+<figcaption class="slideshow-caption  plugin-num-6109251">
+<div class="l-caption-clipper">
+<div class="content-managed">
+Secretary Tillerson Poses for a Photo With NATO Secretary General Stoltenberg and Ukraine Foreign Minister Klimkin at NATO Headquarters in Brussels
+<br/>State Dept Image / Mar 31, 2017
+</div>
+<div class="button b-close-caption toggle-caption plugin-num-6109251"></div>
+</div>
+</figcaption>
+<div class="button b-open-caption toggle-caption plugin-num-6109251"></div>
+</figure>
+<figure class="slide">
+<span class="slide-counter">16/28</span>
+<img src="/img/17/69151/33355840420_a53d449d63_k_432_1.jpg" alt="Secretary TIllerson and Turkish Foreign Minister Cavusoglu Shake Hands After Their Joint Press Conference in Ankar" title="Secretary TIllerson and Turkish Foreign Minister Cavusoglu Shake Hands After Their Joint Press Conference in Ankar"
+width="432px" height="243px"
+>
+<figcaption class="slideshow-caption  plugin-num-6109251">
+<div class="l-caption-clipper">
+<div class="content-managed">
+Secretary TIllerson and Turkish Foreign Minister Cavusoglu Shake Hands After Their Joint Press Conference in Ankar
+<br/>State Dept Image / Mar 30, 2017
+</div>
+<div class="button b-close-caption toggle-caption plugin-num-6109251"></div>
+</div>
+</figcaption>
+<div class="button b-open-caption toggle-caption plugin-num-6109251"></div>
+</figure>
+<figure class="slide">
+<span class="slide-counter">17/28</span>
+<img src="/img/17/69149/32921677663_03d98ae2c1_k_432_1.jpg" alt="Secretary Tillerson Meets with Turkish President Erdogan in Ankara" title="Secretary Tillerson Meets with Turkish President Erdogan in Ankara"
+width="432px" height="243px"
+>
+<figcaption class="slideshow-caption  plugin-num-6109251">
+<div class="l-caption-clipper">
+<div class="content-managed">
+Secretary Tillerson Meets with Turkish President Erdogan in Ankara
+<br/>State Dept Image / Mar 30, 2017
+</div>
+<div class="button b-close-caption toggle-caption plugin-num-6109251"></div>
+</div>
+</figcaption>
+<div class="button b-open-caption toggle-caption plugin-num-6109251"></div>
+</figure>
+<figure class="slide">
+<span class="slide-counter">18/28</span>
+<img src="/img/17/69142/33343594820_466a1fe884_k_432_1.jpg" alt="Secretary Tillerson Arrives in Turkey" title="Secretary Tillerson Arrives in Turkey"
+width="432px" height="243px"
+>
+<figcaption class="slideshow-caption  plugin-num-6109251">
+<div class="l-caption-clipper">
+<div class="content-managed">
+Secretary Tillerson Arrives in Turkey
+<br/>State Dept Image / Mar 30, 2017
+</div>
+<div class="button b-close-caption toggle-caption plugin-num-6109251"></div>
+</div>
+</figcaption>
+<div class="button b-open-caption toggle-caption plugin-num-6109251"></div>
+</figure>
+<figure class="slide">
+<span class="slide-counter">19/28</span>
+<img src="/img/17/69041/2017_03_19_tillerson_china_pres1_33139050550_2a4649ba50_k_432_1.jpg" alt="U.S. Secretary of State Rex Tillerson shakes hands with China's President Xi Jinping before their bilateral meeting in Beijing, China." title="U.S. Secretary of State Rex Tillerson shakes hands with China's President Xi Jinping before their bilateral meeting in Beijing, China."
+width="432px" height="243px"
+>
+<figcaption class="slideshow-caption  plugin-num-6109251">
+<div class="l-caption-clipper">
+<div class="content-managed">
+U.S. Secretary of State Rex Tillerson shakes hands with China's President Xi Jinping before their bilateral meeting in Beijing, China.
+<br/>State Dept Image / Mar 19, 2017
+</div>
+<div class="button b-close-caption toggle-caption plugin-num-6109251"></div>
+</div>
+</figcaption>
+<div class="button b-open-caption toggle-caption plugin-num-6109251"></div>
+</figure>
+<figure class="slide">
+<span class="slide-counter">20/28</span>
+<img src="/img/17/69036/2017_03_17_tillerson_skorea_pres_33358965581_893e55adb9_k_432_1.jpg" alt="U.S. Secretary of State Rex Tillerson shakes hands with South Korean Acting President Hwang Kyo-ahn before their bilateral meeting in Seoul, South Korea." title="U.S. Secretary of State Rex Tillerson shakes hands with South Korean Acting President Hwang Kyo-ahn before their bilateral meeting in Seoul, South Korea."
+width="432px" height="243px"
+>
+<figcaption class="slideshow-caption  plugin-num-6109251">
+<div class="l-caption-clipper">
+<div class="content-managed">
+U.S. Secretary of State Rex Tillerson shakes hands with South Korean Acting President Hwang Kyo-ahn before their bilateral meeting in Seoul, South Korea.
+<br/>State Dept Image / Mar 17, 2017
+</div>
+<div class="button b-close-caption toggle-caption plugin-num-6109251"></div>
+</div>
+</figcaption>
+<div class="button b-open-caption toggle-caption plugin-num-6109251"></div>
+</figure>
+<figure class="slide">
+<span class="slide-counter">21/28</span>
+<img src="/img/17/69033/33343112251_a0f050007c_k_432_1.jpg" alt="Secretary Tillerson and Japanese Foreign Minister Kishida Hold a Joint Press Conference in Tokyo" title="Secretary Tillerson and Japanese Foreign Minister Kishida Hold a Joint Press Conference in Tokyo"
+width="432px" height="243px"
+>
+<figcaption class="slideshow-caption  plugin-num-6109251">
+<div class="l-caption-clipper">
+<div class="content-managed">
+Secretary Tillerson and Japanese Foreign Minister Kishida Hold a Joint Press Conference in Tokyo
+<br/>State Dept Image / Mar 16, 2017
+</div>
+<div class="button b-close-caption toggle-caption plugin-num-6109251"></div>
+</div>
+</figcaption>
+<div class="button b-open-caption toggle-caption plugin-num-6109251"></div>
+</figure>
+<figure class="slide">
+<span class="slide-counter">22/28</span>
+<img src="/img/17/69035/33343115581_d112b9de15_k_432_1.jpg" alt="Secretary Tillerson and Japanese Prime Minister Abe Pose for a Photo Before Their Meeting in Tokyo" title="Secretary Tillerson and Japanese Prime Minister Abe Pose for a Photo Before Their Meeting in Tokyo"
+width="432px" height="243px"
+>
+<figcaption class="slideshow-caption  plugin-num-6109251">
+<div class="l-caption-clipper">
+<div class="content-managed">
+Secretary Tillerson and Japanese Prime Minister Abe Pose for a Photo Before Their Meeting in Tokyo
+<br/>State Dept Image / Mar 16, 2017
+</div>
+<div class="button b-close-caption toggle-caption plugin-num-6109251"></div>
+</div>
+</figcaption>
+<div class="button b-open-caption toggle-caption plugin-num-6109251"></div>
+</figure>
+<figure class="slide">
+<span class="slide-counter">23/28</span>
+<img src="/img/17/69032/33471247495_2138fb7304_k_432_1.jpg" alt="Secretary Tillerson and Japanese Foreign Minister Kishida Pose for a Photo Before Their Meeting in Tokyo" title="Secretary Tillerson and Japanese Foreign Minister Kishida Pose for a Photo Before Their Meeting in Tokyo"
+width="432px" height="243px"
+>
+<figcaption class="slideshow-caption  plugin-num-6109251">
+<div class="l-caption-clipper">
+<div class="content-managed">
+Secretary Tillerson and Japanese Foreign Minister Kishida Pose for a Photo Before Their Meeting in Tokyo
+<br/>State Dept Image / Mar 16, 2017
+</div>
+<div class="button b-close-caption toggle-caption plugin-num-6109251"></div>
+</div>
+</figcaption>
+<div class="button b-open-caption toggle-caption plugin-num-6109251"></div>
+</figure>
+<figure class="slide">
+<span class="slide-counter">24/28</span>
+<img src="/img/17/69030/33328082271_f9db975a1d_z_432_1.jpg" alt="Secretary Tillerson Is Greeted Upon Arrival in Tokyo" title="Secretary Tillerson Is Greeted Upon Arrival in Tokyo"
+width="432px" height="243px"
+>
+<figcaption class="slideshow-caption  plugin-num-6109251">
+<div class="l-caption-clipper">
+<div class="content-managed">
+Secretary Tillerson Is Greeted Upon Arrival in Tokyo
+<br/>State Dept Image / Mar 15, 2017
+</div>
+<div class="button b-close-caption toggle-caption plugin-num-6109251"></div>
+</div>
+</figcaption>
+<div class="button b-open-caption toggle-caption plugin-num-6109251"></div>
+</figure>
+<figure class="slide">
+<span class="slide-counter">25/28</span>
+<img src="/img/17/68890/32261033293_10c68f7dba_k_432_1.jpg" alt="Secretary Tillerson Delivers Remarks at a Joint Press Conference With Mexican Foreign Secretary Videgaray in Mexico City" title="Secretary Tillerson Delivers Remarks at a Joint Press Conference With Mexican Foreign Secretary Videgaray in Mexico City"
+width="432px" height="243px"
+>
+<figcaption class="slideshow-caption  plugin-num-6109251">
+<div class="l-caption-clipper">
+<div class="content-managed">
+Secretary Tillerson Delivers Remarks at a Joint Press Conference With Mexican Foreign Secretary Videgaray in Mexico City
+<br/>State Dept Image / Feb 23, 2017
+</div>
+<div class="button b-close-caption toggle-caption plugin-num-6109251"></div>
+</div>
+</figcaption>
+<div class="button b-open-caption toggle-caption plugin-num-6109251"></div>
+</figure>
+<figure class="slide">
+<span class="slide-counter">26/28</span>
+<img src="/img/17/68889/20170223_tillerson_mexico_fm_432_1.jpg" alt="U.S. Secretary of State Rex Tillerson, left, and Mexico's Foreign Relations Secretary Luis Videgaray shake hands at the Foreign Affairs Ministry in Mexico City, Mexico." title="U.S. Secretary of State Rex Tillerson, left, and Mexico's Foreign Relations Secretary Luis Videgaray shake hands at the Foreign Affairs Ministry in Mexico City, Mexico."
+width="432px" height="243px"
+>
+<figcaption class="slideshow-caption  plugin-num-6109251">
+<div class="l-caption-clipper">
+<div class="content-managed">
+U.S. Secretary of State Rex Tillerson, left, and Mexico's Foreign Relations Secretary Luis Videgaray shake hands at the Foreign Affairs Ministry in Mexico City, Mexico.
+<br/>AP Image / Feb 23, 2017
+</div>
+<div class="button b-close-caption toggle-caption plugin-num-6109251"></div>
+</div>
+</figcaption>
+<div class="button b-open-caption toggle-caption plugin-num-6109251"></div>
+</figure>
+<figure class="slide">
+<span class="slide-counter">27/28</span>
+<img src="/img/17/68888/20170222_tillerson_mexico_arrival_432_1.jpg" alt="U.S. Secretary of State Rex Tillerson is greeted by a representative of the Mexican government and U.S. Ambassador to Mexico Roberta Jacobson upon his arrival in Mexico City, Mexico." title="U.S. Secretary of State Rex Tillerson is greeted by a representative of the Mexican government and U.S. Ambassador to Mexico Roberta Jacobson upon his arrival in Mexico City, Mexico."
+width="432px" height="243px"
+>
+<figcaption class="slideshow-caption  plugin-num-6109251">
+<div class="l-caption-clipper">
+<div class="content-managed">
+U.S. Secretary of State Rex Tillerson is greeted by a representative of the Mexican government and U.S. Ambassador to Mexico Roberta Jacobson upon his arrival in Mexico City, Mexico.
+<br/>State Dept Image / Feb 22, 2017
+</div>
+<div class="button b-close-caption toggle-caption plugin-num-6109251"></div>
+</div>
+</figcaption>
+<div class="button b-open-caption toggle-caption plugin-num-6109251"></div>
+</figure>
+<figure class="slide">
+<span class="slide-counter">28/28</span>
+<img src="/img/17/68887/32678831720_4334491feb_k_432_1.jpg" alt="U.S. Secretary of State Rex Tillerson is greeted by U.S. Ambassador to Mexico Roberta Jacobson upon his arrival in Mexico City, Mexico on February 22, 2017." title="U.S. Secretary of State Rex Tillerson is greeted by U.S. Ambassador to Mexico Roberta Jacobson upon his arrival in Mexico City, Mexico on February 22, 2017."
+width="432px" height="243px"
+>
+<figcaption class="slideshow-caption  plugin-num-6109251">
+<div class="l-caption-clipper">
+<div class="content-managed">
+U.S. Secretary of State Rex Tillerson is greeted by U.S. Ambassador to Mexico Roberta Jacobson upon his arrival in Mexico City, Mexico on February 22, 2017.
+<br/>State Dept Image / Feb 22, 2017
+</div>
+<div class="button b-close-caption toggle-caption plugin-num-6109251"></div>
+</div>
+</figcaption>
+<div class="button b-open-caption toggle-caption plugin-num-6109251"></div>
+</figure>
+</div>
+</div>
+<script>
+ $('.slider-for.plugin-num-6109251').slick({
+accessibility: true,
+adaptiveHeight: true,
+speed: 500,
+arrows: true,
+cssEase: 'linear',
+dots: false,
+fade: true,
+focusOnSelect: true,
+mobileFirst: true,
+slide: '.slide',
+slidesToShow: 1,
+slidesToScroll: 1
+});
+ $('.b-close-caption.plugin-num-6109251').click(function(e) {
+ $(e.target).closest('.slideshow-caption.plugin-num-6109251').slideToggle('fast');
+ $(e.target).closest('.slideshow-caption.plugin-num-6109251').siblings('.b-open-caption').toggle();
+e.preventDefault();
+});
+ $('.b-open-caption.plugin-num-6109251').click(function(e) {
+ $(e.target).hide();
+ $(e.target).siblings('.slideshow-caption.plugin-num-6109251').slideToggle('fast');
+e.preventDefault();
+});
+ $('.slideshow-caption.plugin-num-6109251').show();
+ $('.b-open-caption.plugin-num-6109251').hide();
+</script>
+<p><span style="font-size: 0.875rem;">The Secretary of State travels to all corners of the world to do his job. His duties as Secretary include acting as the President&#39;s representative at all international forums, negotiating treaties and other international agreements, and conducting everyday, face-to-face diplomacy.</span></p>
+</div>
+</div>
+</div>
+</div>
+</article>
+</div>
+</div>
+<div class="row collapse">
+<div class="small-12 columns">
+<div class="row collapse">
+<div class="small-12 columns">
+<div class="l-secretary-travel-stats">
+<h3 aria-level="3" role="heading">
+<span>Travel Statistics<span></span></span>
+</h3>
+<div class="l-wrap">
+<ul class="no-bullet small-block-grid-2 medium-block-grid-3 large-block-grid-4" data-equalizer="equalize2">
+<li data-equalizer-watch="equalize2">
+<dl class="l-total-mileage">
+<dt>
+<h4 role="heading" aria-level="4"> Total Mileage:</h4>
+</dt>
+<dd>42,149 Miles</dd>
+</dl>
+</li>
+<li data-equalizer-watch="equalize2">
+<dl class="l-countries-visited">
+<dt>
+<h4 role="heading" aria-level="4"> Countries Visited:</h4>
+</dt>
+<dd>9</dd>
+</dl>
+</li>
+<li data-equalizer-watch="equalize2">
+<dl class="l-travel-days">
+<dt>
+<h4 role="heading" aria-level="4"> Travel Days:</h4>
+</dt>
+<dd>14</dd>
+</dl>
+</li>
+<li data-equalizer-watch="equalize2">
+<dl class="l-total-flight-time">
+<dt>
+<h4 role="heading" aria-level="4"> Total Flight Time:</h4>
+</dt>
+<dd>94.10 Hours</dd>
+</dl>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="small-12 columns">
+<div class="l-google-map"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<aside class="small-12 medium-3 medium-pull-9 large-3 large-pull-9 l-padding-right columns sidebar-first columns sidebar" role="complementary">
+<a id="subnav-anchor"></a>
+<div class="l-more-info">
+<section class="block-menu-block">
+<h3 aria-level="3" role="heading">In This Section:</h3>
+<div class="menu-block-wrapper">
+<ul class="menu">
+<li>
+<a title="Secretary of State Rex Tillerson's Travel: 2017" href="http://www.state.gov/secretary/travel/2017/index.htm">Secretary of State Rex Tillerson's Travel: 2017</a>
+</li>
+<li>
+<a title="Countries Visited and Mileage: 2017" href="http://www.state.gov/secretary/travel/2017stops/index.htm">Countries Visited and Mileage: 2017</a>
+</li>
+</ul>
+</div>
+</section>
+</div>
+<div class="l-highlights">
+<h3 style="display:none;" aria-level="3" class="highlights-headline" role="heading">Highlights</h3>
+<div id="high1"></div>
+<div id="high2"></div>
+<div id="high3"></div>
+<div id="high4"></div>
+<div id="high5"></div>
+<div id="high6"></div>
+<div id="high7"></div>
+<div id="high8"></div>
+<div id="high9"></div>
+<div id="high10"></div>
+<h3 style="display:none;" class="learnmore-headline" role="heading">Learn More</h3>
+<div id="learn1"></div>
+<div id="learn2"></div>
+<div id="learn3"></div>
+<div id="learn4"></div>
+<div id="learn5"></div>
+</div>
+<div class="l-quick-links"></div>
+</aside>
+</div>
+</main>
+<!--googleoff: all-->
+<div class="l-squiggle"></div>
+<div class="row collapse">
+<div class="small-12 columns">
+<footer class="l-footer" role="contentinfo">
+<div class="row collapse">
+<div class="small-12 columns">
+<div class="l-dos-divider text-center">
+<img src="/state-responsive/images/dos_divider.png" data-uuid="interchange-ir2e1a470" data-interchange="[/state-responsive/images/dos_divider.png, (default)], [/state-responsive/images/dos_divider@2x.png, (retina)]" alt="Image - DOS Divider"><noscript>
+<img alt="Image - DOS Divider" src="/state-responsive/images/dos_divider.png"></noscript>
+</div>
+</div>
+</div>
+<div class="l-footer-menu clearfix">
+  <div class="nav-collapse">
+    <section>
+      <div class="row">
+        <div class="small-12 medium-3 columns">
+          <dl>
+            <dt><h3 role="heading" aria-level="3"><a href="/business" class="active">Business</a></h3></dt>
+            <div class="row">
+              <dd><a href="http://www.state.gov/e/eb/cba/index.htm">Commercial and Business Affairs Office</a></dd>
+              <dd><a href="http://www.state.gov/documents/organization/111812.pdf">Key Officers of Foreign Service Posts</a></dd>
+              <dd><a href="http://www.state.gov/s/partnerships/">Office of Global Partnerships</a></dd>
+              <dd><a href="http://www.state.gov/s/dmr/sdbu/index.htm">Small and Disadvantaged Business Utilization</a></dd>
+              <dd><a href="http://www.state.gov/e/eb/tpp/index.htm">Trade Policy and Negotiations</a></dd>
+            </div>
+          </dl>
+        </div>
+        <div class="small-12 medium-3 columns">
+          <dl>
+            <dt><h3 role="heading" aria-level="3"><a href="/careers" class="active">Careers</a></h3></dt>
+            <div class="row">
+              <dd><a href="https://careers.state.gov/work/civil-service/">Civil Service Officer</a></dd>
+              <dd><a href="https://careers.state.gov/work/foreign-service/consular-fellows">Consular Fellows Program</a></dd>
+              <dd><a href="https://careers.state.gov/work/foreign-service/officer/">Foreign Service Officer</a></dd>
+              <dd><a href="https://careers.state.gov/work/foreign-service/specialist/">Foreign Service Specialist</a></dd>
+              <dd><a href="http://iocareers.state.gov/Main/Home">International Organizations</a></dd>
+              <dd><a href="https://careers.state.gov/intern/student-programs/">Student Programs</a></dd>
+              <dd><a href="http://www.usajobs.gov/">USAJobs: Working for America</a></dd>
+            </div>
+          </dl>
+        </div>
+        <div class="small-12 medium-3 columns">
+          <dl>
+            <dt><h3 role="heading" aria-level="3"><a href="/youthandeducation" class="active">Education & Exchanges</a></h3></dt>
+            <div class="row">
+              <dd><a href="http://history.state.gov/">Diplomatic History</a></dd>
+              <dd><a href="http://diplomacy.state.gov/discoverdiplomacy/">Discover Diplomacy</a></dd>
+              <dd><a href="http://j1visa.state.gov">Exchange Visitor Program</a></dd>
+              <dd><a href="http://eca.state.gov/fulbright">Fulbright Program</a></dd>
+              <dd><a href="http://www.state.gov/r/ppr/gyi/index.htm">Global Youth Issues</a></dd>
+              <dd><a href="http://www.state.gov/m/a/os/">Office of Overseas Schools</a></dd>
+              <dd><a href="http://diplomacy.state.gov/">U.S. Diplomacy Center</a></dd>
+              <dd><a href="http://eca.state.gov/programs-initiatives/youth-programs">Youth Exchange Programs</a></dd>
+            </div>
+          </dl>
+        </div>
+        <div class="small-12 medium-3 columns">
+          <dl>
+            <dt><h3 role="heading" aria-level="3"><a href="/travel" class="active">Travel</a></h3></dt>
+            <div class="row">
+              <dd><a href="https://travel.state.gov/content/travel/en/legal-considerations/judicial/authentication-of-documents.html">Authentications and Apostilles</a></dd>
+              <dd><a href="http://travel.state.gov/content/passports/english/emergencies.html">Emergency Services</a></dd>
+              <dd><a href="http://aoprals.state.gov/content.asp?content_id=184&menu_id=78">Foreign Per Diem Rates</a></dd>
+              <dd><a href="http://adoption.state.gov/">Intercountry Adoption</a></dd>
+              <dd><a href="http://travel.state.gov/content/childabduction/english.html">Parental Child Abduction</a></dd>
+              <dd><a href="http://travel.state.gov/content/passports/english/passports.html">Passports</a></dd>
+              <dd><a href="http://travel.state.gov/content/passports/english/go.html">Travel Information</a></dd>
+              <dd><a href="https://travel.state.gov/content/visas/en.html">Visas</a></dd>
+            </div>
+          </dl>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>
+<div class="row">
+<div class="small-12 columns">
+<div class="l-footer-links">
+<ul class="no-bullet">
+<li>
+<a target="_self" href="/misc/112234.htm">Archive</a>
+</li>
+<li>
+<a target="_self" href="https://register.state.gov/contactus/">Contact Us</a>
+</li>
+<li>
+<a target="_self" href="http://contact-us.state.gov/cgi-bin/state.cfg/php/enduser/std_alp.php">FAQ</a>
+</li>
+<li>
+<a target="_self" href="//findit.state.gov/search?affiliate=dos_stategov">Search</a>
+</li>
+<li>
+<a class="addthis_button" id="bookmark" target="_self" href="http://www.addthis.com/bookmark.php">Share</a><script type="text/javascript" src="/js/addthis.js"></script><script async="async" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4eaec24f65984103" type="text/javascript"></script>
+</li>
+<li>
+<a target="_self" href="/r/pa/ei/subject">Subject Index</a>
+</li>
+</ul>
+<ul class="no-bullet">
+<li>
+<a target="_self" href="/misc/207091.htm">Accessibility Statement</a>
+</li>
+<li>
+<a target="_self" href="/misc/87529.htm#copyright">Copyright Information</a>
+</li>
+<li>
+<a target="_self" href="/misc/152386.htm">External Link Policy</a>
+</li>
+<li>
+<a target="_self" href="https://foia.state.gov/">FOIA</a>
+</li>
+<li>
+<a target="_self" href="/s/ocr/c11528.htm">No Fear Act</a>
+</li>
+<li>
+<a target="_self" href="/misc/415.htm">Privacy Policy</a>
+</li>
+</ul>
+<ul class="no-bullet">
+<li>
+<a target="_self" href="https://oig.state.gov/">Office of Inspector General </a>
+</li>
+<li>
+<a target="_self" href="http://business.usa.gov/">BusinessUSA</a>
+</li>
+<li>
+<a target="_self" href="https://www.whitehouse.gov/">White House</a>
+</li>
+<li>
+<a target="_self" href="https://www.usa.gov/">USA.gov</a>
+</li>
+<li>
+<a target="_self" href="https://www.usembassy.gov/">U.S. Embassies</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="l-footer-text">
+<hr>
+<div class="row">
+<div class="small-12 columns">
+<p>
+<span>The Office of Website Management, Bureau of Public Affairs, manages this site as a portal for information from the U.S. State Department.</span><span>External links to other Internet sites should not be construed as an endorsement of the views or privacy policies contained therein.</span><span>Note: documents in Portable Document Format (PDF) require Adobe Acrobat Reader 5.0 or higher to view, <a target="_blank" href="http://get.adobe.com/reader/">download Adobe Acrobat Reader</a>.</span>
+</p>
+</div>
+</div>
+</div>
+</footer>
+<a class="button b-back-to-top" href="#top" role="button">Top</a>
+</div>
+</div>
+<script type="text/javascript">
+	      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	      ga('create', 'UA-62925817-1', 'auto');
+	      ga('send', 'pageview');
+      </script><script>
+      // Adding this here vs. "scripts.js" since this causes the IMCE buttons to disappear when added to scripts.js.
+      // This is needed to keep the day cells in the DPB calendar the same height when buttons appear inside them.
+      //(function ($, Drupal, window, document, undefined) {
+      $(document).ready(function(){
+        $(document).foundation({
+          equalizer: {
+            // Specify if Equalizer should make elements equal height once they become stacked.
+            equalize_on_stack: true
+          }
+        });
+      });
+      //})(jQuery, Drupal, this, this.document);
+    </script>
+<noscript>Javascript is disabled in your browser. For the best experience on this web site, please enable Javascript.</noscript>
+<!--googleon: all-->
+</div>
+</body>
+</html>
+<script type='text/javascript'>window.galleryTemplateData_6109251 = {recordcount:28,columnlist:'alt,cls,collection_id,description,dimensions,directory,gallery_id,height,icon,id,image_date,image_date_text,image_name,image_size,label,location,long_description,qtip,short_description,sort_order,source,text,upload_date,upload_user,width',data:[{alt:'Date: 04\/28\/2017 Description: Secretary Tillerson Poses for a Photo With UN Secretary-General Guterres at the United Nations in New York City - State Dept Image',cls:'IMAGE-NODE',collection_id:'69313',description:'Secretary Tillerson Poses for a Photo With UN Secretary-General Guterres at the United Nations in New York City',dimensions:'432x243',directory:'\/img\/17\/69313\/',gallery_id:'2412',height:'243',icon:'\/img\/17\/69313\/33519110753_1b046b94f1_k_432_1.jpg',id:'2412693131_33519110753_1b046b94f1_k_432_1.jpg',image_date:'APR 28, 2017',image_date_text:'04\/28\/2017',image_name:'33519110753_1b046b94f1_k_432_1.jpg',image_size:'40',label:'',location:'',long_description:'',qtip:'Date: 04\/28\/2017 Description: Secretary Tillerson Poses for a Photo With UN Secretary-General Guterres at the United Nations in New York City - State Dept Image<p>Uploaded by: vellacb',short_description:'Secretary Tillerson Poses for a Photo With UN Secretary-General Guterres at the United Nations in New York City',sort_order:'0',source:'State Dept Image',text:'04\/28\/2017 - Secretary Tillerson Po...',upload_date:'05\/01\/2017 09:53:38 AM',upload_user:'vellacb',width:'432'},{alt:'Date: 04\/28\/2017 Description: Secretary Tillerson Chairs a UN Security Council Meeting on Denuclearization of the DPRK - State Dept Image',cls:'IMAGE-NODE',collection_id:'69312',description:'Secretary Tillerson Chairs a UN Security Council Meeting on Denuclearization of the DPRK',dimensions:'432x243',directory:'\/img\/17\/69312\/',gallery_id:'2412',height:'243',icon:'\/img\/17\/69312\/34282930466_55467ab635_k_432_1.jpg',id:'2412693121_34282930466_55467ab635_k_432_1.jpg',image_date:'APR 28, 2017',image_date_text:'04\/28\/2017',image_name:'34282930466_55467ab635_k_432_1.jpg',image_size:'59',label:'',location:'',long_description:'',qtip:'Date: 04\/28\/2017 Description: Secretary Tillerson Chairs a UN Security Council Meeting on Denuclearization of the DPRK - State Dept Image<p>Uploaded by: vellacb',short_description:'Secretary Tillerson Chairs a UN Security Council Meeting on Denuclearization of the DPRK',sort_order:'1',source:'State Dept Image',text:'04\/28\/2017 - Secretary Tillerson Ch...',upload_date:'05\/01\/2017 07:32:55 AM',upload_user:'vellacb',width:'432'},{alt:'Date: 04\/12\/2017 Description: Secretary Tillerson and Russian Foreign Minister Lavrov Shake Hands before Bilateral Meeting in Moscow - State Dept Image',cls:'IMAGE-NODE',collection_id:'69260',description:'Secretary Tillerson and Russian Foreign Minister Lavrov Shake Hands before Bilateral Meeting in Moscow',dimensions:'432x243',directory:'\/img\/17\/69260\/',gallery_id:'2412',height:'243',icon:'\/img\/17\/69260\/33949986876_5ea504512a_h_432_1.jpg',id:'2412692601_33949986876_5ea504512a_h_432_1.jpg',image_date:'APR 12, 2017',image_date_text:'04\/12\/2017',image_name:'33949986876_5ea504512a_h_432_1.jpg',image_size:'35',label:'',location:'',long_description:'',qtip:'Date: 04\/12\/2017 Description: Secretary Tillerson and Russian Foreign Minister Lavrov Shake Hands before Bilateral Meeting in Moscow - State Dept Image<p>Uploaded by: vellacb',short_description:'Secretary Tillerson and Russian Foreign Minister Lavrov Shake Hands before Bilateral Meeting in Moscow',sort_order:'2',source:'State Dept Image',text:'04\/12\/2017 - Secretary Tillerson an...',upload_date:'04\/17\/2017 08:10:01 AM',upload_user:'vellacb',width:'432'},{alt:'Date: 04\/11\/2017 Description: Secretary Tillerson poses for a photo with members of the Italian Air Force at Pisa Military Airport before departing Italy en route to Moscow, Russia, on April 11, 2017.  - State Dept Image',cls:'IMAGE-NODE',collection_id:'69240',description:'Secretary Tillerson poses for a photo with members of the Italian Air Force at Pisa Military Airport before departing Italy en route to Moscow, Russia, on April 11, 2017. ',dimensions:'432x243',directory:'\/img\/17\/69240\/',gallery_id:'2412',height:'243',icon:'\/img\/17\/69240\/tillerson_italy_airforce_432_1.jpg',id:'2412692401_tillerson_italy_airforce_432_1.jpg',image_date:'APR 11, 2017',image_date_text:'04\/11\/2017',image_name:'tillerson_italy_airforce_432_1.jpg',image_size:'56',label:'',location:'',long_description:'',qtip:'Date: 04\/11\/2017 Description: Secretary Tillerson poses for a photo with members of the Italian Air Force at Pisa Military Airport before departing Italy en route to Moscow, Russia, on April 11, 2017.  - State Dept Image<p>Uploaded by: ramseywc',short_description:'Secretary Tillerson poses for a photo with members of the Italian Air Force at Pisa Military Airport before departing Italy en route to Moscow, Russia, on April 11, 2017. ',sort_order:'3',source:'State Dept Image',text:'04\/11\/2017 - Secretary Tillerson po...',upload_date:'04\/11\/2017 09:57:35 AM',upload_user:'ramseywc',width:'432'},{alt:'Date: 04\/11\/2017 Description: Secretary Tillerson participates in a meeting on Syria at the G7 Ministers\' Meeting in Lucca, Italy on April 11, 2017. - State Dept Image',cls:'IMAGE-NODE',collection_id:'69237',description:'Secretary Tillerson participates in a meeting on Syria at the G7 Ministers\' Meeting in Lucca, Italy on April 11, 2017.',dimensions:'432x243',directory:'\/img\/17\/69237\/',gallery_id:'2412',height:'243',icon:'\/img\/17\/69237\/tillerson_italy_meeting_432_1.jpg',id:'2412692371_tillerson_italy_meeting_432_1.jpg',image_date:'APR 11, 2017',image_date_text:'04\/11\/2017',image_name:'tillerson_italy_meeting_432_1.jpg',image_size:'66',label:'',location:'',long_description:'',qtip:'Date: 04\/11\/2017 Description: Secretary Tillerson participates in a meeting on Syria at the G7 Ministers\' Meeting in Lucca, Italy on April 11, 2017. - State Dept Image<p>Uploaded by: ramseywc',short_description:'Secretary Tillerson participates in a meeting on Syria at the G7 Ministers\' Meeting in Lucca, Italy on April 11, 2017.',sort_order:'4',source:'State Dept Image',text:'04\/11\/2017 - Secretary Tillerson pa...',upload_date:'04\/11\/2017 09:58:16 AM',upload_user:'ramseywc',width:'432'},{alt:'Date: 04\/11\/2017 Description: Secretary Tillerson poses for a family photo with his fellow G7+1 counterparts in Lucca, Italy, on April 11, 2017. - State Dept Image',cls:'IMAGE-NODE',collection_id:'69241',description:'Secretary Tillerson poses for a family photo with his fellow G7+1 counterparts in Lucca, Italy, on April 11, 2017.',dimensions:'432x243',directory:'\/img\/17\/69241\/',gallery_id:'2412',height:'243',icon:'\/img\/17\/69241\/tillerson_g7_family_432_1.jpg',id:'2412692411_tillerson_g7_family_432_1.jpg',image_date:'APR 11, 2017',image_date_text:'04\/11\/2017',image_name:'tillerson_g7_family_432_1.jpg',image_size:'46',label:'',location:'',long_description:'',qtip:'Date: 04\/11\/2017 Description: Secretary Tillerson poses for a family photo with his fellow G7+1 counterparts in Lucca, Italy, on April 11, 2017. - State Dept Image<p>Uploaded by: ramseywc',short_description:'Secretary Tillerson poses for a family photo with his fellow G7+1 counterparts in Lucca, Italy, on April 11, 2017.',sort_order:'5',source:'State Dept Image',text:'04\/11\/2017 - Secretary Tillerson po...',upload_date:'04\/11\/2017 09:56:31 AM',upload_user:'ramseywc',width:'432'},{alt:'Date: 04\/10\/2017 Description: Secretary Tillerson poses for a family photo with his G7+1 counterparts in front of the Duomo of Lucca, Italy, on April 10, 2017. - State Dept Image',cls:'IMAGE-NODE',collection_id:'69243',description:'Secretary Tillerson poses for a family photo with his G7+1 counterparts in front of the Duomo of Lucca, Italy, on April 10, 2017.',dimensions:'432x243',directory:'\/img\/17\/69243\/',gallery_id:'2412',height:'243',icon:'\/img\/17\/69243\/tillerson_duomo_432_1.jpg',id:'2412692431_tillerson_duomo_432_1.jpg',image_date:'APR 10, 2017',image_date_text:'04\/10\/2017',image_name:'tillerson_duomo_432_1.jpg',image_size:'53',label:'',location:'',long_description:'',qtip:'Date: 04\/10\/2017 Description: Secretary Tillerson poses for a family photo with his G7+1 counterparts in front of the Duomo of Lucca, Italy, on April 10, 2017. - State Dept Image<p>Uploaded by: ramseywc',short_description:'Secretary Tillerson poses for a family photo with his G7+1 counterparts in front of the Duomo of Lucca, Italy, on April 10, 2017.',sort_order:'6',source:'State Dept Image',text:'04\/10\/2017 - Secretary Tillerson po...',upload_date:'04\/11\/2017 09:55:54 AM',upload_user:'ramseywc',width:'432'},{alt:'Date: 04\/10\/2017 Description: Secretary Tillerson poses for a family photo with his fellow G7+1 counterparts in front of the Duomo of Lucca, Italy, on April 10, 2017. - State Dept Image',cls:'IMAGE-NODE',collection_id:'69242',description:'Secretary Tillerson poses for a family photo with his fellow G7+1 counterparts in front of the Duomo of Lucca, Italy, on April 10, 2017.',dimensions:'432x243',directory:'\/img\/17\/69242\/',gallery_id:'2412',height:'243',icon:'\/img\/17\/69242\/tillerson_g7_family2_432_1.jpg',id:'2412692421_tillerson_g7_family2_432_1.jpg',image_date:'APR 10, 2017',image_date_text:'04\/10\/2017',image_name:'tillerson_g7_family2_432_1.jpg',image_size:'51',label:'',location:'',long_description:'',qtip:'Date: 04\/10\/2017 Description: Secretary Tillerson poses for a family photo with his fellow G7+1 counterparts in front of the Duomo of Lucca, Italy, on April 10, 2017. - State Dept Image<p>Uploaded by: ramseywc',short_description:'Secretary Tillerson poses for a family photo with his fellow G7+1 counterparts in front of the Duomo of Lucca, Italy, on April 10, 2017.',sort_order:'7',source:'State Dept Image',text:'04\/10\/2017 - Secretary Tillerson po...',upload_date:'04\/11\/2017 09:56:08 AM',upload_user:'ramseywc',width:'432'},{alt:'Date: 04\/10\/2017 Description: Secretary Tillerson meets survivors and families at Sant\'Anna di Stazzema massacre memorial site in Lucca, Italy on April 10, 2017.  - State Dept Image',cls:'IMAGE-NODE',collection_id:'69236',description:'Secretary Tillerson meets survivors and families at Sant\'Anna di Stazzema massacre memorial site in Lucca, Italy on April 10, 2017. ',dimensions:'432x243',directory:'\/img\/17\/69236\/',gallery_id:'2412',height:'243',icon:'\/img\/17\/69236\/tillerson_memorial_432_1.jpg',id:'2412692361_tillerson_memorial_432_1.jpg',image_date:'APR 10, 2017',image_date_text:'04\/10\/2017',image_name:'tillerson_memorial_432_1.jpg',image_size:'57',label:'',location:'',long_description:'',qtip:'Date: 04\/10\/2017 Description: Secretary Tillerson meets survivors and families at Sant\'Anna di Stazzema massacre memorial site in Lucca, Italy on April 10, 2017.  - State Dept Image<p>Uploaded by: ramseywc',short_description:'Secretary Tillerson meets survivors and families at Sant\'Anna di Stazzema massacre memorial site in Lucca, Italy on April 10, 2017. ',sort_order:'8',source:'State Dept Image',text:'04\/10\/2017 - Secretary Tillerson me...',upload_date:'04\/10\/2017 08:17:28 AM',upload_user:'ramseywc',width:'432'},{alt:'Date: 04\/10\/2017 Description: Secretary Tillerson addresses reporters at Sant\'Anna di Stazzema massacre memorial site in Lucca, Italy on April 10, 2017.  - State Dept Image',cls:'IMAGE-NODE',collection_id:'69235',description:'Secretary Tillerson addresses reporters at Sant\'Anna di Stazzema massacre memorial site in Lucca, Italy on April 10, 2017. ',dimensions:'432x243',directory:'\/img\/17\/69235\/',gallery_id:'2412',height:'243',icon:'\/img\/17\/69235\/tillerson_memorialsite_ital_432_1.jpg',id:'2412692351_tillerson_memorialsite_ital_432_1.jpg',image_date:'APR 10, 2017',image_date_text:'04\/10\/2017',image_name:'tillerson_memorialsite_ital_432_1.jpg',image_size:'63',label:'',location:'',long_description:'',qtip:'Date: 04\/10\/2017 Description: Secretary Tillerson addresses reporters at Sant\'Anna di Stazzema massacre memorial site in Lucca, Italy on April 10, 2017.  - State Dept Image<p>Uploaded by: ramseywc',short_description:'Secretary Tillerson addresses reporters at Sant\'Anna di Stazzema massacre memorial site in Lucca, Italy on April 10, 2017. ',sort_order:'9',source:'State Dept Image',text:'04\/10\/2017 - Secretary Tillerson ad...',upload_date:'04\/10\/2017 08:14:00 AM',upload_user:'ramseywc',width:'432'},{alt:'Date: 04\/10\/2017 Description: Secretary Tillerson shakes hands with Japan Foreign Minister Fumio Kishida, before a bilateral meeting during the G7 Ministers\' meeting in Lucca, Italy on April 10, 2017. - State Dept Image',cls:'IMAGE-NODE',collection_id:'69234',description:'Secretary Tillerson shakes hands with Japan Foreign Minister Fumio Kishida, before a bilateral meeting during the G7 Ministers\' meeting in Lucca, Italy on April 10, 2017.',dimensions:'432x243',directory:'\/img\/17\/69234\/',gallery_id:'2412',height:'243',icon:'\/img\/17\/69234\/tillerson_japanfm2_432_1.jpg',id:'2412692341_tillerson_japanfm2_432_1.jpg',image_date:'APR 10, 2017',image_date_text:'04\/10\/2017',image_name:'tillerson_japanfm2_432_1.jpg',image_size:'30',label:'',location:'',long_description:'',qtip:'Date: 04\/10\/2017 Description: Secretary Tillerson shakes hands with Japan Foreign Minister Fumio Kishida, before a bilateral meeting during the G7 Ministers\' meeting in Lucca, Italy on April 10, 2017. - State Dept Image<p>Uploaded by: ramseywc',short_description:'Secretary Tillerson shakes hands with Japan Foreign Minister Fumio Kishida, before a bilateral meeting during the G7 Ministers\' meeting in Lucca, Italy on April 10, 2017.',sort_order:'10',source:'State Dept Image',text:'04\/10\/2017 - Secretary Tillerson sh...',upload_date:'04\/10\/2017 08:09:50 AM',upload_user:'ramseywc',width:'432'},{alt:'Date: 04\/10\/2017 Description: Secretary Tillerson meets with Japan Foreign Minister Fumio Kishida for a bilateral meeting during the G7 Ministers\' meeting in Lucca, Italy on April 10, 2017.  - State Dept Image',cls:'IMAGE-NODE',collection_id:'69233',description:'Secretary Tillerson meets with Japan Foreign Minister Fumio Kishida for a bilateral meeting during the G7 Ministers\' meeting in Lucca, Italy on April 10, 2017. ',dimensions:'432x243',directory:'\/img\/17\/69233\/',gallery_id:'2412',height:'243',icon:'\/img\/17\/69233\/tillerson_japanfm_432_1.jpg',id:'2412692331_tillerson_japanfm_432_1.jpg',image_date:'APR 10, 2017',image_date_text:'04\/10\/2017',image_name:'tillerson_japanfm_432_1.jpg',image_size:'51',label:'',location:'',long_description:'',qtip:'Date: 04\/10\/2017 Description: Secretary Tillerson meets with Japan Foreign Minister Fumio Kishida for a bilateral meeting during the G7 Ministers\' meeting in Lucca, Italy on April 10, 2017.  - State Dept Image<p>Uploaded by: ramseywc',short_description:'Secretary Tillerson meets with Japan Foreign Minister Fumio Kishida for a bilateral meeting during the G7 Ministers\' meeting in Lucca, Italy on April 10, 2017. ',sort_order:'11',source:'State Dept Image',text:'04\/10\/2017 - Secretary Tillerson me...',upload_date:'04\/10\/2017 08:10:06 AM',upload_user:'ramseywc',width:'432'},{alt:'Date: 04\/09\/2017 Description: Secretary Tillerson deplanes at the Italian Air Force in Pisa, Italy on April 9, 2017. - State Dept Image',cls:'IMAGE-NODE',collection_id:'69232',description:'Secretary Tillerson deplanes at the Italian Air Force in Pisa, Italy on April 9, 2017.',dimensions:'432x243',directory:'\/img\/17\/69232\/',gallery_id:'2412',height:'243',icon:'\/img\/17\/69232\/tillerson_italy_432_1.jpg',id:'2412692321_tillerson_italy_432_1.jpg',image_date:'APR 09, 2017',image_date_text:'04\/09\/2017',image_name:'tillerson_italy_432_1.jpg',image_size:'39',label:'',location:'',long_description:'',qtip:'Date: 04\/09\/2017 Description: Secretary Tillerson deplanes at the Italian Air Force in Pisa, Italy on April 9, 2017. - State Dept Image<p>Uploaded by: ramseywc',short_description:'Secretary Tillerson deplanes at the Italian Air Force in Pisa, Italy on April 9, 2017.',sort_order:'12',source:'State Dept Image',text:'04\/09\/2017 - Secretary Tillerson de...',upload_date:'04\/10\/2017 07:20:08 AM',upload_user:'ramseywc',width:'432'},{alt:'Date: 03\/31\/2017 Description: Secretary Tillerson Stands With NATO Colleagues for NATO Foreign Ministerial Family Photo in Brussels - State Dept Image',cls:'IMAGE-NODE',collection_id:'69167',description:'Secretary Tillerson Stands With NATO Colleagues for NATO Foreign Ministerial Family Photo in Brussels',dimensions:'432x243',directory:'\/img\/17\/69167\/',gallery_id:'2412',height:'243',icon:'\/img\/17\/69167\/32941073223_e5518cc3f3_k_432_1.jpg',id:'2412691671_32941073223_e5518cc3f3_k_432_1.jpg',image_date:'MAR 31, 2017',image_date_text:'03\/31\/2017',image_name:'32941073223_e5518cc3f3_k_432_1.jpg',image_size:'46',label:'',location:'',long_description:'',qtip:'Date: 03\/31\/2017 Description: Secretary Tillerson Stands With NATO Colleagues for NATO Foreign Ministerial Family Photo in Brussels - State Dept Image<p>Uploaded by: vellacb',short_description:'Secretary Tillerson Stands With NATO Colleagues for NATO Foreign Ministerial Family Photo in Brussels',sort_order:'13',source:'State Dept Image',text:'03\/31\/2017 - Secretary Tillerson St...',upload_date:'04\/03\/2017 12:54:39 PM',upload_user:'vellacb',width:'432'},{alt:'Date: 03\/31\/2017 Description: Secretary Tillerson Poses for a Photo With NATO Secretary General Stoltenberg and Ukraine Foreign Minister Klimkin at NATO Headquarters in Brussels - State Dept Image',cls:'IMAGE-NODE',collection_id:'69204',description:'Secretary Tillerson Poses for a Photo With NATO Secretary General Stoltenberg and Ukraine Foreign Minister Klimkin at NATO Headquarters in Brussels',dimensions:'432x243',directory:'\/img\/17\/69204\/',gallery_id:'2412',height:'243',icon:'\/img\/17\/69204\/33600927242_2929250b5f_z_432_1.jpg',id:'2412692041_33600927242_2929250b5f_z_432_1.jpg',image_date:'MAR 31, 2017',image_date_text:'03\/31\/2017',image_name:'33600927242_2929250b5f_z_432_1.jpg',image_size:'41',label:'',location:'',long_description:'',qtip:'Date: 03\/31\/2017 Description: Secretary Tillerson Poses for a Photo With NATO Secretary General Stoltenberg and Ukraine Foreign Minister Klimkin at NATO Headquarters in Brussels - State Dept Image<p>Uploaded by: vellacb',short_description:'Secretary Tillerson Poses for a Photo With NATO Secretary General Stoltenberg and Ukraine Foreign Minister Klimkin at NATO Headquarters in Brussels',sort_order:'14',source:'State Dept Image',text:'03\/31\/2017 - Secretary Tillerson Po...',upload_date:'04\/06\/2017 03:28:01 PM',upload_user:'vellacb',width:'432'},{alt:'Date: 03\/30\/2017 Description: Secretary TIllerson and Turkish Foreign Minister Cavusoglu Shake Hands After Their Joint Press Conference in Ankar - State Dept Image',cls:'IMAGE-NODE',collection_id:'69151',description:'Secretary TIllerson and Turkish Foreign Minister Cavusoglu Shake Hands After Their Joint Press Conference in Ankar',dimensions:'432x243',directory:'\/img\/17\/69151\/',gallery_id:'2412',height:'243',icon:'\/img\/17\/69151\/33355840420_a53d449d63_k_432_1.jpg',id:'2412691511_33355840420_a53d449d63_k_432_1.jpg',image_date:'MAR 30, 2017',image_date_text:'03\/30\/2017',image_name:'33355840420_a53d449d63_k_432_1.jpg',image_size:'45',label:'',location:'',long_description:'',qtip:'Date: 03\/30\/2017 Description: Secretary TIllerson and Turkish Foreign Minister Cavusoglu Shake Hands After Their Joint Press Conference in Ankar - State Dept Image<p>Uploaded by: vellacb',short_description:'Secretary TIllerson and Turkish Foreign Minister Cavusoglu Shake Hands After Their Joint Press Conference in Ankar',sort_order:'15',source:'State Dept Image',text:'03\/30\/2017 - Secretary TIllerson an...',upload_date:'03\/30\/2017 01:00:55 PM',upload_user:'vellacb',width:'432'},{alt:'Date: 03\/30\/2017 Description: Secretary Tillerson Meets with Turkish President Erdogan in Ankara - State Dept Image',cls:'IMAGE-NODE',collection_id:'69149',description:'Secretary Tillerson Meets with Turkish President Erdogan in Ankara',dimensions:'432x243',directory:'\/img\/17\/69149\/',gallery_id:'2412',height:'243',icon:'\/img\/17\/69149\/32921677663_03d98ae2c1_k_432_1.jpg',id:'2412691491_32921677663_03d98ae2c1_k_432_1.jpg',image_date:'MAR 30, 2017',image_date_text:'03\/30\/2017',image_name:'32921677663_03d98ae2c1_k_432_1.jpg',image_size:'40',label:'',location:'',long_description:'',qtip:'Date: 03\/30\/2017 Description: Secretary Tillerson Meets with Turkish President Erdogan in Ankara - State Dept Image<p>Uploaded by: vellacb',short_description:'Secretary Tillerson Meets with Turkish President Erdogan in Ankara',sort_order:'16',source:'State Dept Image',text:'03\/30\/2017 - Secretary Tillerson Me...',upload_date:'03\/30\/2017 10:32:51 AM',upload_user:'vellacb',width:'432'},{alt:'Date: 03\/30\/2017 Description: Secretary Tillerson Arrives in Turkey - State Dept Image',cls:'IMAGE-NODE',collection_id:'69142',description:'Secretary Tillerson Arrives in Turkey',dimensions:'432x243',directory:'\/img\/17\/69142\/',gallery_id:'2412',height:'243',icon:'\/img\/17\/69142\/33343594820_466a1fe884_k_432_1.jpg',id:'2412691421_33343594820_466a1fe884_k_432_1.jpg',image_date:'MAR 30, 2017',image_date_text:'03\/30\/2017',image_name:'33343594820_466a1fe884_k_432_1.jpg',image_size:'45',label:'',location:'',long_description:'',qtip:'Date: 03\/30\/2017 Description: Secretary Tillerson Arrives in Turkey - State Dept Image<p>Uploaded by: vellacb',short_description:'Secretary Tillerson Arrives in Turkey',sort_order:'17',source:'State Dept Image',text:'03\/30\/2017 - Secretary Tillerson Ar...',upload_date:'03\/30\/2017 07:37:20 AM',upload_user:'vellacb',width:'432'},{alt:'Date: 03\/19\/2017 Description: U.S. Secretary of State Rex Tillerson shakes hands with China\'s President Xi Jinping before their bilateral meeting in Beijing, China. - State Dept Image',cls:'IMAGE-NODE',collection_id:'69041',description:'U.S. Secretary of State Rex Tillerson shakes hands with China\'s President Xi Jinping before their bilateral meeting in Beijing, China.',dimensions:'432x243',directory:'\/img\/17\/69041\/',gallery_id:'2412',height:'243',icon:'\/img\/17\/69041\/2017_03_19_tillerson_china_pres1_33139050550_2a4649ba50_k_432_1.jpg',id:'2412690411_2017_03_19_tillerson_china_pres1_33139050550_2a4649ba50_k_432_1.jpg',image_date:'MAR 19, 2017',image_date_text:'03\/19\/2017',image_name:'2017_03_19_tillerson_china_pres1_33139050550_2a4649ba50_k_432_1.jpg',image_size:'36',label:'',location:'',long_description:'',qtip:'Date: 03\/19\/2017 Description: U.S. Secretary of State Rex Tillerson shakes hands with China\'s President Xi Jinping before their bilateral meeting in Beijing, China. - State Dept Image<p>Uploaded by: bremnerm',short_description:'U.S. Secretary of State Rex Tillerson shakes hands with China\'s President Xi Jinping before their bilateral meeting in Beijing, China.',sort_order:'18',source:'State Dept Image',text:'03\/19\/2017 - U.S. Secretary of Stat...',upload_date:'03\/19\/2017 03:16:03 PM',upload_user:'bremnerm',width:'432'},{alt:'Date: 03\/17\/2017 Description: U.S. Secretary of State Rex Tillerson shakes hands with South Korean Acting President Hwang Kyo-ahn before their bilateral meeting in Seoul, South Korea. - State Dept Image',cls:'IMAGE-NODE',collection_id:'69036',description:'U.S. Secretary of State Rex Tillerson shakes hands with South Korean Acting President Hwang Kyo-ahn before their bilateral meeting in Seoul, South Korea.',dimensions:'432x243',directory:'\/img\/17\/69036\/',gallery_id:'2412',height:'243',icon:'\/img\/17\/69036\/2017_03_17_tillerson_skorea_pres_33358965581_893e55adb9_k_432_1.jpg',id:'2412690361_2017_03_17_tillerson_skorea_pres_33358965581_893e55adb9_k_432_1.jpg',image_date:'MAR 17, 2017',image_date_text:'03\/17\/2017',image_name:'2017_03_17_tillerson_skorea_pres_33358965581_893e55adb9_k_432_1.jpg',image_size:'38',label:'',location:'',long_description:'',qtip:'Date: 03\/17\/2017 Description: U.S. Secretary of State Rex Tillerson shakes hands with South Korean Acting President Hwang Kyo-ahn before their bilateral meeting in Seoul, South Korea. - State Dept Image<p>Uploaded by: bremnerm',short_description:'U.S. Secretary of State Rex Tillerson shakes hands with South Korean Acting President Hwang Kyo-ahn before their bilateral meeting in Seoul, South Korea.',sort_order:'19',source:'State Dept Image',text:'03\/17\/2017 - U.S. Secretary of Stat...',upload_date:'03\/19\/2017 03:15:50 PM',upload_user:'bremnerm',width:'432'},{alt:'Date: 03\/16\/2017 Description: Secretary Tillerson and Japanese Foreign Minister Kishida Hold a Joint Press Conference in Tokyo - State Dept Image',cls:'IMAGE-NODE',collection_id:'69033',description:'Secretary Tillerson and Japanese Foreign Minister Kishida Hold a Joint Press Conference in Tokyo',dimensions:'432x243',directory:'\/img\/17\/69033\/',gallery_id:'2412',height:'243',icon:'\/img\/17\/69033\/33343112251_a0f050007c_k_432_1.jpg',id:'2412690331_33343112251_a0f050007c_k_432_1.jpg',image_date:'MAR 16, 2017',image_date_text:'03\/16\/2017',image_name:'33343112251_a0f050007c_k_432_1.jpg',image_size:'71',label:'',location:'',long_description:'',qtip:'Date: 03\/16\/2017 Description: Secretary Tillerson and Japanese Foreign Minister Kishida Hold a Joint Press Conference in Tokyo - State Dept Image<p>Uploaded by: vellacb',short_description:'Secretary Tillerson and Japanese Foreign Minister Kishida Hold a Joint Press Conference in Tokyo',sort_order:'20',source:'State Dept Image',text:'03\/16\/2017 - Secretary Tillerson an...',upload_date:'03\/16\/2017 06:58:08 AM',upload_user:'vellacb',width:'432'},{alt:'Date: 03\/16\/2017 Description: Secretary Tillerson and Japanese Prime Minister Abe Pose for a Photo Before Their Meeting in Tokyo - State Dept Image',cls:'IMAGE-NODE',collection_id:'69035',description:'Secretary Tillerson and Japanese Prime Minister Abe Pose for a Photo Before Their Meeting in Tokyo',dimensions:'432x243',directory:'\/img\/17\/69035\/',gallery_id:'2412',height:'243',icon:'\/img\/17\/69035\/33343115581_d112b9de15_k_432_1.jpg',id:'2412690351_33343115581_d112b9de15_k_432_1.jpg',image_date:'MAR 16, 2017',image_date_text:'03\/16\/2017',image_name:'33343115581_d112b9de15_k_432_1.jpg',image_size:'42',label:'',location:'',long_description:'',qtip:'Date: 03\/16\/2017 Description: Secretary Tillerson and Japanese Prime Minister Abe Pose for a Photo Before Their Meeting in Tokyo - State Dept Image<p>Uploaded by: vellacb',short_description:'Secretary Tillerson and Japanese Prime Minister Abe Pose for a Photo Before Their Meeting in Tokyo',sort_order:'21',source:'State Dept Image',text:'03\/16\/2017 - Secretary Tillerson an...',upload_date:'03\/16\/2017 01:41:39 PM',upload_user:'vellacb',width:'432'},{alt:'Date: 03\/16\/2017 Description: Secretary Tillerson and Japanese Foreign Minister Kishida Pose for a Photo Before Their Meeting in Tokyo - State Dept Image',cls:'IMAGE-NODE',collection_id:'69032',description:'Secretary Tillerson and Japanese Foreign Minister Kishida Pose for a Photo Before Their Meeting in Tokyo',dimensions:'432x243',directory:'\/img\/17\/69032\/',gallery_id:'2412',height:'243',icon:'\/img\/17\/69032\/33471247495_2138fb7304_k_432_1.jpg',id:'2412690321_33471247495_2138fb7304_k_432_1.jpg',image_date:'MAR 16, 2017',image_date_text:'03\/16\/2017',image_name:'33471247495_2138fb7304_k_432_1.jpg',image_size:'55',label:'',location:'',long_description:'',qtip:'Date: 03\/16\/2017 Description: Secretary Tillerson and Japanese Foreign Minister Kishida Pose for a Photo Before Their Meeting in Tokyo - State Dept Image<p>Uploaded by: vellacb',short_description:'Secretary Tillerson and Japanese Foreign Minister Kishida Pose for a Photo Before Their Meeting in Tokyo',sort_order:'22',source:'State Dept Image',text:'03\/16\/2017 - Secretary Tillerson an...',upload_date:'03\/16\/2017 06:30:53 AM',upload_user:'vellacb',width:'432'},{alt:'Date: 03\/15\/2017 Description: Secretary Tillerson Is Greeted Upon Arrival in Tokyo - State Dept Image',cls:'IMAGE-NODE',collection_id:'69030',description:'Secretary Tillerson Is Greeted Upon Arrival in Tokyo',dimensions:'432x243',directory:'\/img\/17\/69030\/',gallery_id:'2412',height:'243',icon:'\/img\/17\/69030\/33328082271_f9db975a1d_z_432_1.jpg',id:'2412690301_33328082271_f9db975a1d_z_432_1.jpg',image_date:'MAR 15, 2017',image_date_text:'03\/15\/2017',image_name:'33328082271_f9db975a1d_z_432_1.jpg',image_size:'39',label:'',location:'',long_description:'',qtip:'Date: 03\/15\/2017 Description: Secretary Tillerson Is Greeted Upon Arrival in Tokyo - State Dept Image<p>Uploaded by: vellacb',short_description:'Secretary Tillerson Is Greeted Upon Arrival in Tokyo',sort_order:'23',source:'State Dept Image',text:'03\/15\/2017 - Secretary Tillerson Is...',upload_date:'03\/15\/2017 10:49:47 AM',upload_user:'vellacb',width:'432'},{alt:'Date: 02\/23\/2017 Description: Secretary Tillerson Delivers Remarks at a Joint Press Conference With Mexican Foreign Secretary Videgaray in Mexico City - State Dept Image',cls:'IMAGE-NODE',collection_id:'68890',description:'Secretary Tillerson Delivers Remarks at a Joint Press Conference With Mexican Foreign Secretary Videgaray in Mexico City',dimensions:'432x243',directory:'\/img\/17\/68890\/',gallery_id:'2412',height:'243',icon:'\/img\/17\/68890\/32261033293_10c68f7dba_k_432_1.jpg',id:'2412688901_32261033293_10c68f7dba_k_432_1.jpg',image_date:'FEB 23, 2017',image_date_text:'02\/23\/2017',image_name:'32261033293_10c68f7dba_k_432_1.jpg',image_size:'37',label:'',location:'',long_description:'',qtip:'Date: 02\/23\/2017 Description: Secretary Tillerson Delivers Remarks at a Joint Press Conference With Mexican Foreign Secretary Videgaray in Mexico City - State Dept Image<p>Uploaded by: vellacb',short_description:'Secretary Tillerson Delivers Remarks at a Joint Press Conference With Mexican Foreign Secretary Videgaray in Mexico City',sort_order:'24',source:'State Dept Image',text:'02\/23\/2017 - Secretary Tillerson De...',upload_date:'02\/28\/2017 12:17:16 PM',upload_user:'vellacb',width:'432'},{alt:'Date: 02\/23\/2017 Description: U.S. Secretary of State Rex Tillerson, left, and Mexico\'s Foreign Relations Secretary Luis Videgaray shake hands at the Foreign Affairs Ministry in Mexico City, Mexico. &copy; AP Image',cls:'IMAGE-NODE',collection_id:'68889',description:'U.S. Secretary of State Rex Tillerson, left, and Mexico\'s Foreign Relations Secretary Luis Videgaray shake hands at the Foreign Affairs Ministry in Mexico City, Mexico.',dimensions:'432x243',directory:'\/img\/17\/68889\/',gallery_id:'2412',height:'243',icon:'\/img\/17\/68889\/20170223_tillerson_mexico_fm_432_1.jpg',id:'2412688891_20170223_tillerson_mexico_fm_432_1.jpg',image_date:'FEB 23, 2017',image_date_text:'02\/23\/2017',image_name:'20170223_tillerson_mexico_fm_432_1.jpg',image_size:'33',label:'',location:'',long_description:'',qtip:'Date: 02\/23\/2017 Description: U.S. Secretary of State Rex Tillerson, left, and Mexico\'s Foreign Relations Secretary Luis Videgaray shake hands at the Foreign Affairs Ministry in Mexico City, Mexico. &copy; AP Image<p>Uploaded by: vellacb',short_description:'U.S. Secretary of State Rex Tillerson, left, and Mexico\'s Foreign Relations Secretary Luis Videgaray shake hands at the Foreign Affairs Ministry in Mexico City, Mexico.',sort_order:'25',source:'AP Image',text:'02\/23\/2017 - U.S. Secretary of Stat...',upload_date:'02\/28\/2017 12:17:22 PM',upload_user:'vellacb',width:'432'},{alt:'Date: 02\/22\/2017 Description: U.S. Secretary of State Rex Tillerson is greeted by a representative of the Mexican government and U.S. Ambassador to Mexico Roberta Jacobson upon his arrival in Mexico City, Mexico. - State Dept Image',cls:'IMAGE-NODE',collection_id:'68888',description:'U.S. Secretary of State Rex Tillerson is greeted by a representative of the Mexican government and U.S. Ambassador to Mexico Roberta Jacobson upon his arrival in Mexico City, Mexico.',dimensions:'432x243',directory:'\/img\/17\/68888\/',gallery_id:'2412',height:'243',icon:'\/img\/17\/68888\/20170222_tillerson_mexico_arrival_432_1.jpg',id:'2412688881_20170222_tillerson_mexico_arrival_432_1.jpg',image_date:'FEB 22, 2017',image_date_text:'02\/22\/2017',image_name:'20170222_tillerson_mexico_arrival_432_1.jpg',image_size:'46',label:'',location:'',long_description:'',qtip:'Date: 02\/22\/2017 Description: U.S. Secretary of State Rex Tillerson is greeted by a representative of the Mexican government and U.S. Ambassador to Mexico Roberta Jacobson upon his arrival in Mexico City, Mexico. - State Dept Image<p>Uploaded by: vellacb',short_description:'U.S. Secretary of State Rex Tillerson is greeted by a representative of the Mexican government and U.S. Ambassador to Mexico Roberta Jacobson upon his arrival in Mexico City, Mexico.',sort_order:'26',source:'State Dept Image',text:'02\/22\/2017 - U.S. Secretary of Stat...',upload_date:'02\/28\/2017 12:17:31 PM',upload_user:'vellacb',width:'432'},{alt:'Date: 02\/22\/2017 Description: U.S. Secretary of State Rex Tillerson is greeted by U.S. Ambassador to Mexico Roberta Jacobson upon his arrival in Mexico City, Mexico on February 22, 2017. - State Dept Image',cls:'IMAGE-NODE',collection_id:'68887',description:'U.S. Secretary of State Rex Tillerson is greeted by U.S. Ambassador to Mexico Roberta Jacobson upon his arrival in Mexico City, Mexico on February 22, 2017.',dimensions:'432x243',directory:'\/img\/17\/68887\/',gallery_id:'2412',height:'243',icon:'\/img\/17\/68887\/32678831720_4334491feb_k_432_1.jpg',id:'2412688871_32678831720_4334491feb_k_432_1.jpg',image_date:'FEB 22, 2017',image_date_text:'02\/22\/2017',image_name:'32678831720_4334491feb_k_432_1.jpg',image_size:'38',label:'',location:'',long_description:'',qtip:'Date: 02\/22\/2017 Description: U.S. Secretary of State Rex Tillerson is greeted by U.S. Ambassador to Mexico Roberta Jacobson upon his arrival in Mexico City, Mexico on February 22, 2017. - State Dept Image<p>Uploaded by: vellacb',short_description:'U.S. Secretary of State Rex Tillerson is greeted by U.S. Ambassador to Mexico Roberta Jacobson upon his arrival in Mexico City, Mexico on February 22, 2017.',sort_order:'27',source:'State Dept Image',text:'02\/22\/2017 - U.S. Secretary of Stat...',upload_date:'02\/28\/2017 12:17:37 PM',upload_user:'vellacb',width:'432'}]};</script>
+

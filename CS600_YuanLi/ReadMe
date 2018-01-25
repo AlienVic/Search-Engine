@@ -1,0 +1,16 @@
+author: Yuan Li
+CWID: 10413357
+Major: Computer Science
+
+
+The Step of Running Search Engine:
+
+Start:
+
+Step 1: Running Spider.java in SearchEngine to crawl the information of WebPage and parse html webpage.
+
+Step 2: Running SearchEngine.java in SearchEngine to construct Trie Tree for Dictionary.
+
+Step 3: Input the Keyword needed to be searched, Then the system will return all URLs of Website.
+
+End.
